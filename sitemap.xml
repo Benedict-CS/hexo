@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://benedict-cs.github.io/hexo/about/index.html</loc>
+    
+    <lastmod>2024-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://benedict-cs.github.io/hexo/2024/11/13/linux_scheduling_policies/</loc>
     
     <lastmod>2024-07-03</lastmod>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://benedict-cs.github.io/hexo/2022/11/08/champion/</loc>
-    
-    <lastmod>2024-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://benedict-cs.github.io/hexo/about/index.html</loc>
     
     <lastmod>2024-07-02</lastmod>
     

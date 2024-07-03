@@ -1,3 +1,4 @@
+https://benedict-cs.github.io/hexo/about/index.html
 https://benedict-cs.github.io/hexo/2024/11/13/linux_scheduling_policies/
 https://benedict-cs.github.io/hexo/2024/11/14/kernel_module/
 https://benedict-cs.github.io/hexo/2024/11/12/compile_linux_kernel/
@@ -7,7 +8,6 @@ https://benedict-cs.github.io/hexo/2023/11/10/shortlisted/
 https://benedict-cs.github.io/hexo/2023/11/09/bestpresentation/
 https://benedict-cs.github.io/hexo/2023/11/08/bestcreation/
 https://benedict-cs.github.io/hexo/2022/11/08/champion/
-https://benedict-cs.github.io/hexo/about/index.html
 https://benedict-cs.github.io/hexo/home/index.html
 https://benedict-cs.github.io/hexo/2022/11/07/bestdesign/
 https://benedict-cs.github.io/hexo/tags/index.html
