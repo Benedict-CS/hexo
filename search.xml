@@ -1,111 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>分區賽 - 技職盃黑客松 最佳創造價值獎</title>
-    <url>/hexo/2023/11/08/bestcreation/</url>
-    <content><![CDATA[<style>
-   .link{
-   border-bottom: 1px solid gray;
-   padding-bottom: 1.5px;
-   }
-   .flex-container {
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: center;
-   align-content: flex-start;
-   }
-   .item {
-   width: 29%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item4 {
-   width: 28.5%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item5 {
-   width: 36%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item6 {
-   width: 20%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item7 {
-   width: 19%;
-   margin: 2px;
-   justify-content: center;
-   align-items: center;
-   padding: 2px;
-   }
-   .item2 {
-   width: 45%;
-   height: 40%;
-   height: auto;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   @media (max-width: 768px) {
-   .item {
-   width: 98%;
-   }
-   }
-</style>
-
-<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>在參加過之前多場的比賽後，現在都會自主的找比賽來參加，這是和一群在校内計算機與網路中心工讀的夥伴一起揪團參加的一個比賽，今年的比賽是在台科大舉辦。「黑客松」（Makerthon）是「自造者（Maker）」和「馬拉松（Marathon）」的結合，鼓勵全國技專校院學生實踐所學，發揮設計思考及解決問題的能力,并藉由活動的辦理協助學生思考個人在世界的角色與責任，成為負責任的世界公民，使全國技專校院學生與國際社會議題接軌， 並在解決問題的實作過程中達到發揮設計思考及解決問題的能力,以及引導學生以跨領域的合作方式，透過腦力激盪出創新的想法，落實創意。</p>
-<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽畢竟叫黑客松就是一場2天一夜的比賽，所以基本上沒有所謂的備賽期，基本上題目也是當場才會知道。但是在比賽前舉辦單位會舉辦2次的培訓課程，但因為之前已經參加過培訓課程，所以今年我們團隊就沒有再報名參加培訓課程了。</p>
-<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>比賽當天我們就現場報道後，就等舉辦當位現場抽題。我們抽到的題目是在維護山林平衡的同時兼顧觀光，那一開始我們組員就腦力激蕩了很久，過了大半天了還是一直沒有想法，一直到當天的晚上次才有定案。那我們的作品名稱叫做『山年之中』， 這個作品」是一個藝術裝置可以讓登山者完整看到垃圾的有機物分解、腐熟，並經由時間在微生物 生化作用下，成為有機的肥料滋潤整片山林。</p>
-<p>我們的設計動機是因為根據國際無痕山林七大法則，人為丟棄垃圾是破壞山林最大的因素。這是因為登山者對於環境保護 的知識不足。</p>
-<p>設計的目的是以教育的角度讓登山者從感官上學習環境保護的重要性。我們以會自轉的透明垃圾桶作為展示，透 過旋轉可以加速垃圾的分解，讓登山者可以看見分解過程並從中領悟垃圾對山林造成的影響。</p>
-  <div class="flex-container">
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/9.jpg" />
-                                    <p style="text-align: center;">作品雛形</p>
-                                 </div>
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/2.jpg" />
-                                    <p style="text-align: center;">作品</p>
-                                 </div>
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/3.jpg" />
-                                    <p style="text-align: center;">比賽過程</p>
-                                 </div>
-                              </div>
-
-
-<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>那這個比賽是很短的比賽，所以基本上從抽題到討論到最後的報告只有不到一天的時間，我們把我的作品製作好了，就開始設計我們的簡報，我覺得設計一個好的簡報是非常重要的，比賽評分分成2個幾點，第一個階段是走評，就是評審會走到你的作品前面給你90秒的時間迅速講講你的作品，這個階段是沒有QA的。第二階段就是上臺的報告，這個階段也只有3分鐘的時間，所以才說簡報非常重要，如何抓住評審的注意力，然後吧作品的理念和設計講訴給評審聼是很重要的。所以在報告前，我們組員之間就互相練習了報告很多次。<br>                             <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/1.jpg" width="600px" /><br>                                    <p style="text-align: center;">作品</p><br>                               </center><br>                              </div><br>                              <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/4.jpg" width="600px" /><br>                                    <p style="text-align: center;">報告</p><br>                               </center><br>                              </div></p>
-<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>等每一組報告完後，大概等待一個小時多的時間成績就公佈了。那很榮幸這次的作評獲得評審的青睞，讓我們拿到了評審團大獎，也就是全國賽冠軍。全國大賽，由北、中、南分區賽選拔入圍計72隊團隊共204人。</p>
-  <div>
-                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/5.jpg" width="600px" />
-                                <p>團隊合照</p>
-                                </center>
-                               </div>
-
-<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以拿到技職盃黑客松總決賽的門票，接下來下一章會分享全國賽的經驗。</p>
-]]></content>
-      <categories>
-        <category>比賽</category>
-      </categories>
-      <tags>
-        <tag>competition</tag>
-        <tag>University</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>分區賽 - 技職盃黑客松 最佳設計獎</title>
     <url>/hexo/2022/11/07/bestdesign/</url>
     <content><![CDATA[<style>
@@ -208,6 +103,111 @@
                                     <a href="https://www.facebook.com/photo/?fbid=362414349248649&set=a.351730486983702" target="_blank">河的快篩 的采訪</a>
                                 </span>
                               </p>]]></content>
+      <categories>
+        <category>比賽</category>
+      </categories>
+      <tags>
+        <tag>competition</tag>
+        <tag>University</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分區賽 - 技職盃黑客松 最佳創造價值獎</title>
+    <url>/hexo/2023/11/08/bestcreation/</url>
+    <content><![CDATA[<style>
+   .link{
+   border-bottom: 1px solid gray;
+   padding-bottom: 1.5px;
+   }
+   .flex-container {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-content: flex-start;
+   }
+   .item {
+   width: 29%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item4 {
+   width: 28.5%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item5 {
+   width: 36%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item6 {
+   width: 20%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item7 {
+   width: 19%;
+   margin: 2px;
+   justify-content: center;
+   align-items: center;
+   padding: 2px;
+   }
+   .item2 {
+   width: 45%;
+   height: 40%;
+   height: auto;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   @media (max-width: 768px) {
+   .item {
+   width: 98%;
+   }
+   }
+</style>
+
+<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>在參加過之前多場的比賽後，現在都會自主的找比賽來參加，這是和一群在校内計算機與網路中心工讀的夥伴一起揪團參加的一個比賽，今年的比賽是在台科大舉辦。「黑客松」（Makerthon）是「自造者（Maker）」和「馬拉松（Marathon）」的結合，鼓勵全國技專校院學生實踐所學，發揮設計思考及解決問題的能力,并藉由活動的辦理協助學生思考個人在世界的角色與責任，成為負責任的世界公民，使全國技專校院學生與國際社會議題接軌， 並在解決問題的實作過程中達到發揮設計思考及解決問題的能力,以及引導學生以跨領域的合作方式，透過腦力激盪出創新的想法，落實創意。</p>
+<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽畢竟叫黑客松就是一場2天一夜的比賽，所以基本上沒有所謂的備賽期，基本上題目也是當場才會知道。但是在比賽前舉辦單位會舉辦2次的培訓課程，但因為之前已經參加過培訓課程，所以今年我們團隊就沒有再報名參加培訓課程了。</p>
+<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>比賽當天我們就現場報道後，就等舉辦當位現場抽題。我們抽到的題目是在維護山林平衡的同時兼顧觀光，那一開始我們組員就腦力激蕩了很久，過了大半天了還是一直沒有想法，一直到當天的晚上次才有定案。那我們的作品名稱叫做『山年之中』， 這個作品」是一個藝術裝置可以讓登山者完整看到垃圾的有機物分解、腐熟，並經由時間在微生物 生化作用下，成為有機的肥料滋潤整片山林。</p>
+<p>我們的設計動機是因為根據國際無痕山林七大法則，人為丟棄垃圾是破壞山林最大的因素。這是因為登山者對於環境保護 的知識不足。</p>
+<p>設計的目的是以教育的角度讓登山者從感官上學習環境保護的重要性。我們以會自轉的透明垃圾桶作為展示，透 過旋轉可以加速垃圾的分解，讓登山者可以看見分解過程並從中領悟垃圾對山林造成的影響。</p>
+  <div class="flex-container">
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/9.jpg" />
+                                    <p style="text-align: center;">作品雛形</p>
+                                 </div>
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/2.jpg" />
+                                    <p style="text-align: center;">作品</p>
+                                 </div>
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/3.jpg" />
+                                    <p style="text-align: center;">比賽過程</p>
+                                 </div>
+                              </div>
+
+
+<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>那這個比賽是很短的比賽，所以基本上從抽題到討論到最後的報告只有不到一天的時間，我們把我的作品製作好了，就開始設計我們的簡報，我覺得設計一個好的簡報是非常重要的，比賽評分分成2個幾點，第一個階段是走評，就是評審會走到你的作品前面給你90秒的時間迅速講講你的作品，這個階段是沒有QA的。第二階段就是上臺的報告，這個階段也只有3分鐘的時間，所以才說簡報非常重要，如何抓住評審的注意力，然後吧作品的理念和設計講訴給評審聼是很重要的。所以在報告前，我們組員之間就互相練習了報告很多次。<br>                             <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/1.jpg" width="600px" /><br>                                    <p style="text-align: center;">作品</p><br>                               </center><br>                              </div><br>                              <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/4.jpg" width="600px" /><br>                                    <p style="text-align: center;">報告</p><br>                               </center><br>                              </div></p>
+<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>等每一組報告完後，大概等待一個小時多的時間成績就公佈了。那很榮幸這次的作評獲得評審的青睞，讓我們拿到了評審團大獎，也就是全國賽冠軍。全國大賽，由北、中、南分區賽選拔入圍計72隊團隊共204人。</p>
+  <div>
+                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/5.jpg" width="600px" />
+                                <p>團隊合照</p>
+                                </center>
+                               </div>
+
+<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以拿到技職盃黑客松總決賽的門票，接下來下一章會分享全國賽的經驗。</p>
+]]></content>
       <categories>
         <category>比賽</category>
       </categories>
@@ -767,6 +767,124 @@
       </tags>
   </entry>
   <entry>
+    <title>放視大賞 入圍跨域組</title>
+    <url>/hexo/2023/11/10/shortlisted/</url>
+    <content><![CDATA[<style>
+   .link{
+   border-bottom: 1px solid gray;
+   padding-bottom: 1.5px;
+   }
+   .flex-container {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-content: flex-start;
+   }
+   .item {
+   width: 29%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item4 {
+   width: 28.5%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item5 {
+   width: 36%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item6 {
+   width: 20%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item7 {
+   width: 19%;
+   margin: 2px;
+   justify-content: center;
+   align-items: center;
+   padding: 2px;
+   }
+   .item2 {
+   width: 45%;
+   height: 40%;
+   height: auto;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   @media (max-width: 768px) {
+   .item {
+   width: 98%;
+   }
+   }
+</style>
+
+<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>放視大賞（Vision Get Wild，VGW）為「數位發展部數位產業署」用心打造的創意設計節，由臺灣產學策進會執行辦理，為國內最具指標數位、設計學生創意競賽展覽，涵蓋多元領域包含：影音、動畫、遊戲、平面（傳達設計 &#x2F; 產品設計）、跨領域、AR &#x2F; VR、行動應用等領域 ，透過競賽、展覽、影展、國際論壇、交流聚會等形式，打造產學間的互動合作交流平台，每年吸引上千件作品參與競賽，更邀請到國際大師蒞臨擔任講者，如美國皮克斯公司、暴雪娛樂、拳頭遊戲等。我們所有互動系的學生都需要參加這個的比賽。</p>
+<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽就是把我們的畢業製作拿去投稿，所以這個準備的過程可以說是長達一年多的時間，從一開始的專題發想，到開發，到最後的成品。</p>
+<p>那時候的我們曾迷惘，對於資訊科跨設計領域。我不知道我的選擇是否正確，但已經走在了完全不同的道路上。 互動設計系是一個特別的科系，分為兩個組別。分別是媒體組-負責寫程式，讓遊戲跑起來，賦予漂亮的設計生命，視傳組-設計網頁、手機App介面，拉3D角色，製作2D&#x2F;3D動畫。用美感改變這個世界， 同時我們在畢業前會經由四年的磨練得到一個通用的技能，為使用者所設計。</p>
+<p>他就像是從各種分析和角度，了解這個世界所存在的事物和規則。他的應用範圍太廣泛，因此我們統稱他為「互動」。過去，我只懂得做，看到問題解決就對了不去思考背後的原因。現在，我學會了想，一樣是解決問題，可是我知道如何從根本去解決，而不是停留在表面。</p>
+<p>現在回望，這是大學被互動設計系所賜予最棒的禮物。一群神隊友，陪我一起參加各種競賽，在我需要時成為我的後盾。一群在背後默默支持我的老師們，每當我提出我的質疑和想法，總是熱烈擁抱。他們輕柔地接住我，給我面對這個世界所需的力量。</p>
+<p>這次的作品是我在互動設計系完成的最後一項專題。 蓋水好行，是和臺北蓋水專案合作的作品。讓彩色人孔蓋變成AR，帶大家認識臺北的在地文化。帶著這個作品，我們經過了校內、南港展覽館、高雄展覽館得到了很棒的迴響，是一個最美的大學結尾。</p>
+<h1 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h1><p>比賽的過程分成幾個階段，第一階段就是把計劃投稿，然後如果有入圍在高雄展覽館的時候才會有第二階段的評比。但我們在跨域組是只有初選入圍，所以我們在高雄展覽館就只有單純的展覽就沒有了第二階段的評比。</p>
+<p>我們的作品是「蓋水好行」，是以AR擴增實境為表現方式，藉由水利局「 臺北蓋水 」彩繪人孔蓋計畫，發展一款結合觀光導覽、人文 推廣、環境維護的手機App「 蓋水好行 」。</p>
+<p>我們的設計動機是因為一個城市的美觀會直接影響在地的觀光，然而在臺北的大街小巷中隨處可見的人孔蓋卻總是髒髒黑 黑，甚至民眾會覺得是都市地雷之負面印象。</p>
+<p>設計的目的是透過人孔蓋外觀大改造結合AR的互動，翻轉民眾對於人孔蓋的負面印象。透過實際走訪彩繪人孔蓋 設置的地點，以不同的視角去身歷其境重新地體會臺北之美。</p>
+ <div class="flex-container">
+                                 <div class="item4" >
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/1.jpg"  />
+                                    <p style="text-align: center;">彩繪人孔蓋導航</p>
+                                 </div>
+                                 <div class="item5">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/2.jpg" />
+                                    <p style="text-align: center;">實地AR互動體驗</p>
+                                 </div>
+                                 <div class="item6">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/3.jpg" />
+                                    <p style="text-align: center;">IG AR濾鏡互動</p>
+                                 </div>
+                              </div>
+
+
+
+<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>因為我們沒有晉級到決賽，所以那天我們就只是去高雄展覽館去辦展覽。<br>                            <div><br>                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Shortlisted/4.jpg" width="650px" /><br>                                    <p>組員合照</p><br>                                </center><br>                               </div></p>
+<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>因為第一階段的成績就只是計劃書，所以比賽的成績也是可以透過他們的<a href="https://www.facebook.com/photo/?fbid=603072095186724&set=pb.100064518169786.-2207520000" target="_blank">fb粉專</a>查看。</p>
+ <div>
+                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Shortlisted/6.jpg" width="650px" />
+                                <p>初選名單</p>
+                                </center>
+                               </div>
+
+
+<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值，這次的比賽真的收穫滿滿。</p>
+<h2 id="作品連結"><a href="#作品連結" class="headerlink" title="作品連結"></a>作品連結</h2> <p>
+                                 <span>
+                                    <a href="https://www.1111.com.tw/news/jobns/151351"
+                                       target="_blank">蓋水好行
+                                       的采訪</a>
+                                 </span>
+                              </p>]]></content>
+      <categories>
+        <category>比賽</category>
+      </categories>
+      <tags>
+        <tag>competition</tag>
+        <tag>University</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>全國賽 - 5G通訊大賽 入圍</title>
     <url>/hexo/2021/11/06/mobilehero/</url>
     <content><![CDATA[<style>
@@ -879,124 +997,6 @@
 <h2 id="作品佳績"><a href="#作品佳績" class="headerlink" title="作品佳績"></a>作品佳績</h2><p>TintuFull這個作品也在資策會雲端數據平台（IDEAS Chain）上作為應用案例的分享，作品的雛形也放在在北部、中部、南部的學校輪流展出。<br>    <div><br>                                            <center> <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_9.jpg" width="500px" /><br>                                                <p style="text-align: center;">TintFull 作品展出</p><br>                                        </div></p>
 <h2 id="作品連結"><a href="#作品連結" class="headerlink" title="作品連結"></a>作品連結</h2><p>TintFull 設計過程<br>TintFull 作品成果<br>TintFull 在ideas hatch作為案例分享<br>TintFull 在ideas chain作為案例分享</p>
 ]]></content>
-      <categories>
-        <category>比賽</category>
-      </categories>
-      <tags>
-        <tag>competition</tag>
-        <tag>University</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>放視大賞 入圍跨域組</title>
-    <url>/hexo/2023/11/10/shortlisted/</url>
-    <content><![CDATA[<style>
-   .link{
-   border-bottom: 1px solid gray;
-   padding-bottom: 1.5px;
-   }
-   .flex-container {
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: center;
-   align-content: flex-start;
-   }
-   .item {
-   width: 29%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item4 {
-   width: 28.5%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item5 {
-   width: 36%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item6 {
-   width: 20%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item7 {
-   width: 19%;
-   margin: 2px;
-   justify-content: center;
-   align-items: center;
-   padding: 2px;
-   }
-   .item2 {
-   width: 45%;
-   height: 40%;
-   height: auto;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   @media (max-width: 768px) {
-   .item {
-   width: 98%;
-   }
-   }
-</style>
-
-<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>放視大賞（Vision Get Wild，VGW）為「數位發展部數位產業署」用心打造的創意設計節，由臺灣產學策進會執行辦理，為國內最具指標數位、設計學生創意競賽展覽，涵蓋多元領域包含：影音、動畫、遊戲、平面（傳達設計 &#x2F; 產品設計）、跨領域、AR &#x2F; VR、行動應用等領域 ，透過競賽、展覽、影展、國際論壇、交流聚會等形式，打造產學間的互動合作交流平台，每年吸引上千件作品參與競賽，更邀請到國際大師蒞臨擔任講者，如美國皮克斯公司、暴雪娛樂、拳頭遊戲等。我們所有互動系的學生都需要參加這個的比賽。</p>
-<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽就是把我們的畢業製作拿去投稿，所以這個準備的過程可以說是長達一年多的時間，從一開始的專題發想，到開發，到最後的成品。</p>
-<p>那時候的我們曾迷惘，對於資訊科跨設計領域。我不知道我的選擇是否正確，但已經走在了完全不同的道路上。 互動設計系是一個特別的科系，分為兩個組別。分別是媒體組-負責寫程式，讓遊戲跑起來，賦予漂亮的設計生命，視傳組-設計網頁、手機App介面，拉3D角色，製作2D&#x2F;3D動畫。用美感改變這個世界， 同時我們在畢業前會經由四年的磨練得到一個通用的技能，為使用者所設計。</p>
-<p>他就像是從各種分析和角度，了解這個世界所存在的事物和規則。他的應用範圍太廣泛，因此我們統稱他為「互動」。過去，我只懂得做，看到問題解決就對了不去思考背後的原因。現在，我學會了想，一樣是解決問題，可是我知道如何從根本去解決，而不是停留在表面。</p>
-<p>現在回望，這是大學被互動設計系所賜予最棒的禮物。一群神隊友，陪我一起參加各種競賽，在我需要時成為我的後盾。一群在背後默默支持我的老師們，每當我提出我的質疑和想法，總是熱烈擁抱。他們輕柔地接住我，給我面對這個世界所需的力量。</p>
-<p>這次的作品是我在互動設計系完成的最後一項專題。 蓋水好行，是和臺北蓋水專案合作的作品。讓彩色人孔蓋變成AR，帶大家認識臺北的在地文化。帶著這個作品，我們經過了校內、南港展覽館、高雄展覽館得到了很棒的迴響，是一個最美的大學結尾。</p>
-<h1 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h1><p>比賽的過程分成幾個階段，第一階段就是把計劃投稿，然後如果有入圍在高雄展覽館的時候才會有第二階段的評比。但我們在跨域組是只有初選入圍，所以我們在高雄展覽館就只有單純的展覽就沒有了第二階段的評比。</p>
-<p>我們的作品是「蓋水好行」，是以AR擴增實境為表現方式，藉由水利局「 臺北蓋水 」彩繪人孔蓋計畫，發展一款結合觀光導覽、人文 推廣、環境維護的手機App「 蓋水好行 」。</p>
-<p>我們的設計動機是因為一個城市的美觀會直接影響在地的觀光，然而在臺北的大街小巷中隨處可見的人孔蓋卻總是髒髒黑 黑，甚至民眾會覺得是都市地雷之負面印象。</p>
-<p>設計的目的是透過人孔蓋外觀大改造結合AR的互動，翻轉民眾對於人孔蓋的負面印象。透過實際走訪彩繪人孔蓋 設置的地點，以不同的視角去身歷其境重新地體會臺北之美。</p>
- <div class="flex-container">
-                                 <div class="item4" >
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/1.jpg"  />
-                                    <p style="text-align: center;">彩繪人孔蓋導航</p>
-                                 </div>
-                                 <div class="item5">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/2.jpg" />
-                                    <p style="text-align: center;">實地AR互動體驗</p>
-                                 </div>
-                                 <div class="item6">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Shortlisted/3.jpg" />
-                                    <p style="text-align: center;">IG AR濾鏡互動</p>
-                                 </div>
-                              </div>
-
-
-
-<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>因為我們沒有晉級到決賽，所以那天我們就只是去高雄展覽館去辦展覽。<br>                            <div><br>                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Shortlisted/4.jpg" width="650px" /><br>                                    <p>組員合照</p><br>                                </center><br>                               </div></p>
-<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>因為第一階段的成績就只是計劃書，所以比賽的成績也是可以透過他們的<a href="https://www.facebook.com/photo/?fbid=603072095186724&set=pb.100064518169786.-2207520000" target="_blank">fb粉專</a>查看。</p>
- <div>
-                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Shortlisted/6.jpg" width="650px" />
-                                <p>初選名單</p>
-                                </center>
-                               </div>
-
-
-<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值，這次的比賽真的收穫滿滿。</p>
-<h2 id="作品連結"><a href="#作品連結" class="headerlink" title="作品連結"></a>作品連結</h2> <p>
-                                 <span>
-                                    <a href="https://www.1111.com.tw/news/jobns/151351"
-                                       target="_blank">蓋水好行
-                                       的采訪</a>
-                                 </span>
-                              </p>]]></content>
       <categories>
         <category>比賽</category>
       </categories>
@@ -1400,6 +1400,11 @@
         <tag>OS</tag>
         <tag>Linux Kernel</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>archives</title>
+    <url>/hexo/archives/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>about</title>
@@ -1901,11 +1906,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>archives</title>
-    <url>/hexo/archives/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Home</title>
     <url>/hexo/home/index.html</url>
     <content><![CDATA[]]></content>
@@ -1919,48 +1919,6 @@
     <title>tags</title>
     <url>/hexo/tags/index.html</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/hexo/lib/bookmark/README.html</url>
-    <content><![CDATA[<h1 align="center">Bookmark for <a href="https://github.com/theme-next">NexT</a></h1>
-
-<h2 align="center">Introduce</h2>
-
-<p>Bookmark is a plugin that allow the users save their reading position.</p>
-<p>The users could just click the bookmark icon (like 🔖) in left-top of the page to save the position.</p>
-<p>And when they visit your blog in the next time, they can continue the last reading position by clicking the bookmark icon from the home page.</p>
-<h1 align="center">Installation</h1>
-
-<h2>If you want to use the CDN instead of clone this repo, please jump to the Step 3.</h2>
-
-<h2 align="center">Step 1 &rarr; Go to NexT dir</h2>
-
-<p>Change dir to <strong>NexT</strong> directory. There must be <code>layout</code>, <code>source</code>, <code>languages</code> and other directories:</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next</span><br><span class="line">$ <span class="built_in">ls</span></span><br><span class="line">bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  <span class="built_in">source</span>  <span class="built_in">test</span></span><br></pre></td></tr></table></figure>
-
-<h2 align="center">Step 2 &rarr; Get module</h2>
-
-<p>Install module to <code>source/lib</code> directory:</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/theme-next/theme-next-bookmark.git <span class="built_in">source</span>/lib/bookmark</span><br></pre></td></tr></table></figure>
-
-<h2 align="center">Step 3 &rarr; Set it up</h2>
-
-<p>Enable module in <strong>NexT</strong> <code>_config.yml</code> file:</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">bookmark:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
-
-<p><strong>And, if you wants to use the CDN, then need to set:</strong></p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">vendors:</span></span><br><span class="line">  <span class="string">...</span></span><br><span class="line">  <span class="attr">bookmark:</span> <span class="string">https://cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@latest/bookmark.min.js</span></span><br></pre></td></tr></table></figure>
-
-<h1 align="center">Update</h1>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next/source/lib/bookmark</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/hexo/lib/bookmark/bookmark.min.js</url>
-    <content><![CDATA[!function(o){"use strict";var n=o.localStorage;null==n&&(n={getItem:function(){return null},setItem:function(){},removeItem:function(){},clear:function(){}});var t,e=function(){var o=n.getItem("bookmark");if(null==o)return null;try{return JSON.parse(o)}catch(o){return null}},a=function(){var n=o.document.createElement("style");n.type="text/css";var e=".book-mark-link{border-bottom:none;display:block;position:fixed;color:#222;font-size:26px !important;top:-10px;left:20px;transition:.3s;}.book-mark-link:hover,.book-mark-link-fixed{top:-2px}@media(max-width:1090px){.book-mark-link{display:none}}";e=o.document.createTextNode(e),n.appendChild(e),o.document.head.appendChild(n),t=$('<a class="book-mark-link book-mark-link-fixed fa fa-bookmark" href="#"></a>'),$(o.document.body).append(t);var a=0;$(o).on("scroll.bookmark",function(){var n=o.document.documentElement.scrollTop;n>0?0===a&&(t.removeClass("book-mark-link-fixed"),a=n):a>0&&(!t.hasClass("book-mark-link-fixed")&&t.addClass("book-mark-link-fixed"),a=0)})},r=function(e,a){null==a&&(a={});var r=o.document.documentElement.scrollTop;return a.lastUri=e,a[e]=r,n.setItem("bookmark",JSON.stringify(a)),t.animate({top:-26},"fast",function(){setTimeout(function(){t.css("top","")},400)}),a};o.bookmark={loadBookmark:function(){var o=e();null!=o&&$(function(){a(),t.attr("href",o.lastUri+"#book:mark")})},scrollToMark:function(n,l){var i=o.location.pathname,c=e();$(function(){var e;a(),t.click(function(){return c=r(i,c),!1}),"auto"===n&&o.addEventListener("beforeunload",function(){r(i,c)}),null!=c&&([l,"#comments"].filter(function(n){return n===o.location.hash}).length>0||(e=c[i],isNaN(e)||$(function(){$(o.document.documentElement).animate({scrollTop:e},"fast")})))})}}}(window);]]></content>
   </entry>
   <entry>
     <title></title>
@@ -2116,6 +2074,48 @@
   };
 })(window);
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/hexo/lib/bookmark/README.html</url>
+    <content><![CDATA[<h1 align="center">Bookmark for <a href="https://github.com/theme-next">NexT</a></h1>
+
+<h2 align="center">Introduce</h2>
+
+<p>Bookmark is a plugin that allow the users save their reading position.</p>
+<p>The users could just click the bookmark icon (like 🔖) in left-top of the page to save the position.</p>
+<p>And when they visit your blog in the next time, they can continue the last reading position by clicking the bookmark icon from the home page.</p>
+<h1 align="center">Installation</h1>
+
+<h2>If you want to use the CDN instead of clone this repo, please jump to the Step 3.</h2>
+
+<h2 align="center">Step 1 &rarr; Go to NexT dir</h2>
+
+<p>Change dir to <strong>NexT</strong> directory. There must be <code>layout</code>, <code>source</code>, <code>languages</code> and other directories:</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next</span><br><span class="line">$ <span class="built_in">ls</span></span><br><span class="line">bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  <span class="built_in">source</span>  <span class="built_in">test</span></span><br></pre></td></tr></table></figure>
+
+<h2 align="center">Step 2 &rarr; Get module</h2>
+
+<p>Install module to <code>source/lib</code> directory:</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/theme-next/theme-next-bookmark.git <span class="built_in">source</span>/lib/bookmark</span><br></pre></td></tr></table></figure>
+
+<h2 align="center">Step 3 &rarr; Set it up</h2>
+
+<p>Enable module in <strong>NexT</strong> <code>_config.yml</code> file:</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">bookmark:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p><strong>And, if you wants to use the CDN, then need to set:</strong></p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">vendors:</span></span><br><span class="line">  <span class="string">...</span></span><br><span class="line">  <span class="attr">bookmark:</span> <span class="string">https://cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@latest/bookmark.min.js</span></span><br></pre></td></tr></table></figure>
+
+<h1 align="center">Update</h1>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next/source/lib/bookmark</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/hexo/lib/bookmark/bookmark.min.js</url>
+    <content><![CDATA[!function(o){"use strict";var n=o.localStorage;null==n&&(n={getItem:function(){return null},setItem:function(){},removeItem:function(){},clear:function(){}});var t,e=function(){var o=n.getItem("bookmark");if(null==o)return null;try{return JSON.parse(o)}catch(o){return null}},a=function(){var n=o.document.createElement("style");n.type="text/css";var e=".book-mark-link{border-bottom:none;display:block;position:fixed;color:#222;font-size:26px !important;top:-10px;left:20px;transition:.3s;}.book-mark-link:hover,.book-mark-link-fixed{top:-2px}@media(max-width:1090px){.book-mark-link{display:none}}";e=o.document.createTextNode(e),n.appendChild(e),o.document.head.appendChild(n),t=$('<a class="book-mark-link book-mark-link-fixed fa fa-bookmark" href="#"></a>'),$(o.document.body).append(t);var a=0;$(o).on("scroll.bookmark",function(){var n=o.document.documentElement.scrollTop;n>0?0===a&&(t.removeClass("book-mark-link-fixed"),a=n):a>0&&(!t.hasClass("book-mark-link-fixed")&&t.addClass("book-mark-link-fixed"),a=0)})},r=function(e,a){null==a&&(a={});var r=o.document.documentElement.scrollTop;return a.lastUri=e,a[e]=r,n.setItem("bookmark",JSON.stringify(a)),t.animate({top:-26},"fast",function(){setTimeout(function(){t.css("top","")},400)}),a};o.bookmark={loadBookmark:function(){var o=e();null!=o&&$(function(){a(),t.attr("href",o.lastUri+"#book:mark")})},scrollToMark:function(n,l){var i=o.location.pathname,c=e();$(function(){var e;a(),t.click(function(){return c=r(i,c),!1}),"auto"===n&&o.addEventListener("beforeunload",function(){r(i,c)}),null!=c&&([l,"#comments"].filter(function(n){return n===o.location.hash}).length>0||(e=c[i],isNaN(e)||$(function(){$(o.document.documentElement).animate({scrollTop:e},"fast")})))})}}}(window);]]></content>
   </entry>
   <entry>
     <title></title>
