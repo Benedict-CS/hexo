@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>分區賽 - 技職盃黑客松 最佳創造價值獎</title>
+    <url>/hexo/2023/11/08/bestcreation/</url>
+    <content><![CDATA[<style>
+   .link{
+   border-bottom: 1px solid gray;
+   padding-bottom: 1.5px;
+   }
+   .flex-container {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-content: flex-start;
+   }
+   .item {
+   width: 29%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item4 {
+   width: 28.5%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item5 {
+   width: 36%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item6 {
+   width: 20%;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   .item7 {
+   width: 19%;
+   margin: 2px;
+   justify-content: center;
+   align-items: center;
+   padding: 2px;
+   }
+   .item2 {
+   width: 45%;
+   height: 40%;
+   height: auto;
+   margin: 5px;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   }
+   @media (max-width: 768px) {
+   .item {
+   width: 98%;
+   }
+   }
+</style>
+
+<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>在參加過之前多場的比賽後，現在都會自主的找比賽來參加，這是和一群在校内計算機與網路中心工讀的夥伴一起揪團參加的一個比賽，今年的比賽是在台科大舉辦。「黑客松」（Makerthon）是「自造者（Maker）」和「馬拉松（Marathon）」的結合，鼓勵全國技專校院學生實踐所學，發揮設計思考及解決問題的能力,并藉由活動的辦理協助學生思考個人在世界的角色與責任，成為負責任的世界公民，使全國技專校院學生與國際社會議題接軌， 並在解決問題的實作過程中達到發揮設計思考及解決問題的能力,以及引導學生以跨領域的合作方式，透過腦力激盪出創新的想法，落實創意。</p>
+<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽畢竟叫黑客松就是一場2天一夜的比賽，所以基本上沒有所謂的備賽期，基本上題目也是當場才會知道。但是在比賽前舉辦單位會舉辦2次的培訓課程，但因為之前已經參加過培訓課程，所以今年我們團隊就沒有再報名參加培訓課程了。</p>
+<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>比賽當天我們就現場報道後，就等舉辦當位現場抽題。我們抽到的題目是在維護山林平衡的同時兼顧觀光，那一開始我們組員就腦力激蕩了很久，過了大半天了還是一直沒有想法，一直到當天的晚上次才有定案。那我們的作品名稱叫做『山年之中』， 這個作品」是一個藝術裝置可以讓登山者完整看到垃圾的有機物分解、腐熟，並經由時間在微生物 生化作用下，成為有機的肥料滋潤整片山林。</p>
+<p>我們的設計動機是因為根據國際無痕山林七大法則，人為丟棄垃圾是破壞山林最大的因素。這是因為登山者對於環境保護 的知識不足。</p>
+<p>設計的目的是以教育的角度讓登山者從感官上學習環境保護的重要性。我們以會自轉的透明垃圾桶作為展示，透 過旋轉可以加速垃圾的分解，讓登山者可以看見分解過程並從中領悟垃圾對山林造成的影響。</p>
+  <div class="flex-container">
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/9.jpg" />
+                                    <p style="text-align: center;">作品雛形</p>
+                                 </div>
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/2.jpg" />
+                                    <p style="text-align: center;">作品</p>
+                                 </div>
+                                 <div class="item">
+                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/3.jpg" />
+                                    <p style="text-align: center;">比賽過程</p>
+                                 </div>
+                              </div>
+
+
+<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>那這個比賽是很短的比賽，所以基本上從抽題到討論到最後的報告只有不到一天的時間，我們把我的作品製作好了，就開始設計我們的簡報，我覺得設計一個好的簡報是非常重要的，比賽評分分成2個幾點，第一個階段是走評，就是評審會走到你的作品前面給你90秒的時間迅速講講你的作品，這個階段是沒有QA的。第二階段就是上臺的報告，這個階段也只有3分鐘的時間，所以才說簡報非常重要，如何抓住評審的注意力，然後吧作品的理念和設計講訴給評審聼是很重要的。所以在報告前，我們組員之間就互相練習了報告很多次。<br>                             <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/1.jpg" width="600px" /><br>                                    <p style="text-align: center;">作品</p><br>                               </center><br>                              </div><br>                              <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/4.jpg" width="600px" /><br>                                    <p style="text-align: center;">報告</p><br>                               </center><br>                              </div></p>
+<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>等每一組報告完後，大概等待一個小時多的時間成績就公佈了。那很榮幸這次的作評獲得評審的青睞，讓我們拿到了評審團大獎，也就是全國賽冠軍。全國大賽，由北、中、南分區賽選拔入圍計72隊團隊共204人。</p>
+  <div>
+                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/5.jpg" width="600px" />
+                                <p>團隊合照</p>
+                                </center>
+                               </div>
+
+<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以拿到技職盃黑客松總決賽的門票，接下來下一章會分享全國賽的經驗。</p>
+]]></content>
+      <categories>
+        <category>比賽</category>
+      </categories>
+      <tags>
+        <tag>competition</tag>
+        <tag>University</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>分區賽 - 技職盃黑客松 最佳設計獎</title>
     <url>/hexo/2022/11/07/bestdesign/</url>
     <content><![CDATA[<style>
@@ -103,111 +208,6 @@
                                     <a href="https://www.facebook.com/photo/?fbid=362414349248649&set=a.351730486983702" target="_blank">河的快篩 的采訪</a>
                                 </span>
                               </p>]]></content>
-      <categories>
-        <category>比賽</category>
-      </categories>
-      <tags>
-        <tag>competition</tag>
-        <tag>University</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>分區賽 - 技職盃黑客松 最佳創造價值獎</title>
-    <url>/hexo/2023/11/08/bestcreation/</url>
-    <content><![CDATA[<style>
-   .link{
-   border-bottom: 1px solid gray;
-   padding-bottom: 1.5px;
-   }
-   .flex-container {
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: center;
-   align-content: flex-start;
-   }
-   .item {
-   width: 29%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item4 {
-   width: 28.5%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item5 {
-   width: 36%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item6 {
-   width: 20%;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   .item7 {
-   width: 19%;
-   margin: 2px;
-   justify-content: center;
-   align-items: center;
-   padding: 2px;
-   }
-   .item2 {
-   width: 45%;
-   height: 40%;
-   height: auto;
-   margin: 5px;
-   justify-content: center;
-   align-items: center;
-   padding: 10px;
-   }
-   @media (max-width: 768px) {
-   .item {
-   width: 98%;
-   }
-   }
-</style>
-
-<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>在參加過之前多場的比賽後，現在都會自主的找比賽來參加，這是和一群在校内計算機與網路中心工讀的夥伴一起揪團參加的一個比賽，今年的比賽是在台科大舉辦。「黑客松」（Makerthon）是「自造者（Maker）」和「馬拉松（Marathon）」的結合，鼓勵全國技專校院學生實踐所學，發揮設計思考及解決問題的能力,并藉由活動的辦理協助學生思考個人在世界的角色與責任，成為負責任的世界公民，使全國技專校院學生與國際社會議題接軌， 並在解決問題的實作過程中達到發揮設計思考及解決問題的能力,以及引導學生以跨領域的合作方式，透過腦力激盪出創新的想法，落實創意。</p>
-<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽畢竟叫黑客松就是一場2天一夜的比賽，所以基本上沒有所謂的備賽期，基本上題目也是當場才會知道。但是在比賽前舉辦單位會舉辦2次的培訓課程，但因為之前已經參加過培訓課程，所以今年我們團隊就沒有再報名參加培訓課程了。</p>
-<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>比賽當天我們就現場報道後，就等舉辦當位現場抽題。我們抽到的題目是在維護山林平衡的同時兼顧觀光，那一開始我們組員就腦力激蕩了很久，過了大半天了還是一直沒有想法，一直到當天的晚上次才有定案。那我們的作品名稱叫做『山年之中』， 這個作品」是一個藝術裝置可以讓登山者完整看到垃圾的有機物分解、腐熟，並經由時間在微生物 生化作用下，成為有機的肥料滋潤整片山林。</p>
-<p>我們的設計動機是因為根據國際無痕山林七大法則，人為丟棄垃圾是破壞山林最大的因素。這是因為登山者對於環境保護 的知識不足。</p>
-<p>設計的目的是以教育的角度讓登山者從感官上學習環境保護的重要性。我們以會自轉的透明垃圾桶作為展示，透 過旋轉可以加速垃圾的分解，讓登山者可以看見分解過程並從中領悟垃圾對山林造成的影響。</p>
-  <div class="flex-container">
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/9.jpg" />
-                                    <p style="text-align: center;">作品雛形</p>
-                                 </div>
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/2.jpg" />
-                                    <p style="text-align: center;">作品</p>
-                                 </div>
-                                 <div class="item">
-                                    <img alt="張永義 競賽" data-src="/hexo/images/Best_Creation/3.jpg" />
-                                    <p style="text-align: center;">比賽過程</p>
-                                 </div>
-                              </div>
-
-
-<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>那這個比賽是很短的比賽，所以基本上從抽題到討論到最後的報告只有不到一天的時間，我們把我的作品製作好了，就開始設計我們的簡報，我覺得設計一個好的簡報是非常重要的，比賽評分分成2個幾點，第一個階段是走評，就是評審會走到你的作品前面給你90秒的時間迅速講講你的作品，這個階段是沒有QA的。第二階段就是上臺的報告，這個階段也只有3分鐘的時間，所以才說簡報非常重要，如何抓住評審的注意力，然後吧作品的理念和設計講訴給評審聼是很重要的。所以在報告前，我們組員之間就互相練習了報告很多次。<br>                             <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/1.jpg" width="600px" /><br>                                    <p style="text-align: center;">作品</p><br>                               </center><br>                              </div><br>                              <div><br>                                <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/4.jpg" width="600px" /><br>                                    <p style="text-align: center;">報告</p><br>                               </center><br>                              </div></p>
-<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>等每一組報告完後，大概等待一個小時多的時間成績就公佈了。那很榮幸這次的作評獲得評審的青睞，讓我們拿到了評審團大獎，也就是全國賽冠軍。全國大賽，由北、中、南分區賽選拔入圍計72隊團隊共204人。</p>
-  <div>
-                                 <center>  <img alt="張永義 競賽圖片" data-src="/hexo/images/Best_Creation/5.jpg" width="600px" />
-                                <p>團隊合照</p>
-                                </center>
-                               </div>
-
-<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以拿到技職盃黑客松總決賽的門票，接下來下一章會分享全國賽的經驗。</p>
-]]></content>
       <categories>
         <category>比賽</category>
       </categories>
@@ -701,6 +701,229 @@
       </tags>
   </entry>
   <entry>
+    <title>Apply different scheduling policies on created threads</title>
+    <url>/hexo/2024/11/13/linux_scheduling_policies/</url>
+    <content><![CDATA[<ul>
+<li>Assignment 2: Implement a program to apply different scheduling policies on created threads<ul>
+<li>Linux Scheduling Policy<ul>
+<li><code>SCHED_FIFO</code></li>
+</ul>
+</li>
+<li>Requirements<ul>
+<li>Main thread</li>
+<li>Worker Thread</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="Implement-a-program-to-apply-different-scheduling-policies-on-created-threads"><a href="#Implement-a-program-to-apply-different-scheduling-policies-on-created-threads" class="headerlink" title="Implement a program to apply different scheduling policies on created threads"></a>Implement a program to apply different scheduling policies on created threads</h2><h3 id="Q1-Describe-how-you-implemented-the-program-in-detail"><a href="#Q1-Describe-how-you-implemented-the-program-in-detail" class="headerlink" title="Q1: Describe how you implemented the program in detail."></a>Q1: Describe how you implemented the program in detail.</h3><p><strong>Step 0: Create new program</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vim sched_demo_312551002.c</span><br></pre></td></tr></table></figure>
+<p><strong>Step 1: Define and include related library</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> _GNU_SOURCE</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdlib.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;string.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;pthread.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;sched.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;unistd.h&gt;</span></span></span><br></pre></td></tr></table></figure>
+
+<p>I enabled the GNU extensions because I’ll using functions like <code>CPU_ZERO</code>, <code>CPU_SET</code>, and <code>pthread_setaffinity_np</code>, if not enabled the GNU extensions, when compile will occur errors and warnings. </p>
+<p><strong>Step 2: Define a struct for collecting required thread information</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> &#123;</span></span><br><span class="line">    <span class="type">pthread_t</span> thread_id;</span><br><span class="line">    <span class="type">int</span> thread_num;</span><br><span class="line">    <span class="type">int</span> sched_policy;</span><br><span class="line">    <span class="type">int</span> sched_priority;</span><br><span class="line">    <span class="type">pthread_barrier_t</span> *barrier;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">&#125; <span class="type">thread_info_t</span>;</span><br></pre></td></tr></table></figure>
+
+<p><strong>Step 3: Implement the Parse program arguments</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">testcases:</span><br><span class="line"></span><br><span class="line">-n 1 -t 0.5 -s NORMAL -p -1</span><br><span class="line">-n 2 -t 0.5 -s FIFO,FIFO -p 10,20</span><br><span class="line">-n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">parse_args</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[], <span class="type">int</span> *num_threads, <span class="type">double</span> *time_wait, </span></span><br><span class="line"><span class="params">                <span class="type">char</span> ***policies_array, <span class="type">char</span> ***priorities_array)</span> </span><br><span class="line">&#123;</span><br><span class="line">    <span class="type">char</span> *policies_str = <span class="literal">NULL</span>;</span><br><span class="line">    <span class="type">char</span> *priorities_str = <span class="literal">NULL</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> opt;</span><br><span class="line">    <span class="keyword">while</span> ((opt = getopt(argc, argv, <span class="string">&quot;n:t:s:p:&quot;</span>)) != <span class="number">-1</span>) &#123;</span><br><span class="line">        <span class="keyword">switch</span> (opt) &#123;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;n&#x27;</span>:</span><br><span class="line">                *num_threads = atoi(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;t&#x27;</span>:</span><br><span class="line">                *time_wait = atof(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;s&#x27;</span>:</span><br><span class="line">                policies_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;p&#x27;</span>:</span><br><span class="line">                priorities_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Split policies and priotities argument */</span></span><br><span class="line">    *policies_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line">    *priorities_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line"></span><br><span class="line">    <span class="type">char</span> *rest_policy = policies_str;</span><br><span class="line">    <span class="type">char</span> *rest_priority = priorities_str;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; *num_threads; i++) &#123;</span><br><span class="line">        <span class="keyword">if</span> (i == <span class="number">0</span>) &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(policies_str, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(priorities_str, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125; </span><br><span class="line">        <span class="keyword">else</span> &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>Command-line arguments are parsed using the <code>getopt</code> function. The arguments include the number of threads <code>-n</code>, time to wait <code>-t</code>, scheduling policies <code>-s</code>, and priorities <code>-p</code>. The values are stored in appropriate variables for later use.</li>
+<li>Special attention is given to the <code>-s</code> and <code>-p</code> arguments, which can have multiple values separated by <code>&quot;,&quot;</code>. These values are split and stored in arrays for individual thread configurations.</li>
+</ul>
+<p><strong>Step 4: Set CPU affinity and thread attribute</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">set_thread_attributes</span><span class="params">(<span class="type">pthread_attr_t</span> *attr, <span class="type">int</span> sched_policy, <span class="type">int</span> sched_priority)</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Set CPU affinity */</span></span><br><span class="line">    <span class="type">cpu_set_t</span> cpuset;</span><br><span class="line">    pthread_attr_init(attr);</span><br><span class="line">    CPU_ZERO(&amp;cpuset);</span><br><span class="line">    CPU_SET(<span class="number">0</span>, &amp;cpuset);</span><br><span class="line">    pthread_attr_setaffinity_np(attr, <span class="keyword">sizeof</span>(<span class="type">cpu_set_t</span>), &amp;cpuset);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Set FIFO priority and attribute */</span></span><br><span class="line">    <span class="keyword">if</span> (sched_policy == SCHED_FIFO) &#123;</span><br><span class="line">        <span class="class"><span class="keyword">struct</span> <span class="title">sched_param</span> <span class="title">param</span>;</span></span><br><span class="line">        param.sched_priority = sched_priority;</span><br><span class="line">        pthread_attr_setschedpolicy(attr, SCHED_FIFO);</span><br><span class="line">        pthread_attr_setschedparam(attr, &amp;param);</span><br><span class="line">        pthread_attr_setinheritsched(attr, PTHREAD_EXPLICIT_SCHED);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><code>CPU_ZERO</code> and <code>CPU_SET</code> are used to bind threads to a specific CPU (CPU 0 in this case), ensuring that they run on the designated processor.</li>
+<li>If the scheduling policy is <code>SCHED_FIFO</code>, additional attributes such as scheduling policy and priority are set. <code>SCHED_FIFO</code> is a real-time scheduling policy where a thread runs until it either finishes or is preempted by a higher priority thread. If scheduling policy is <code>NORMAL</code> will skip this part.</li>
+</ul>
+<p><strong>Step 5: Implement the Worker Thread</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>The worker thread’s function is defined here. Each thread waits at the barrier until all threads are ready to start simultaneously. This ensures synchronized start across all threads.</li>
+<li>Inside the loop, each thread performs its task for a specified duration <code>time_wait</code>. This is achieved using a busy-wait loop, calculating elapsed time with <code>clock_gettime</code>.</li>
+</ul>
+<p><strong>Step 6: Implement the Main Thread</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[])</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> num_threads;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">    <span class="type">char</span> **policies;</span><br><span class="line">    <span class="type">char</span> **priorities;</span><br><span class="line"></span><br><span class="line">    parse_args(argc, argv, &amp;num_threads, &amp;time_wait, &amp;policies, &amp;priorities);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Initialize a barrier for synchronizing the start of the worker threads */</span></span><br><span class="line">    <span class="type">pthread_barrier_t</span> barrier;</span><br><span class="line">    pthread_barrier_init(&amp;barrier, <span class="literal">NULL</span>, num_threads);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Allocate memory for storing thread information */</span></span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = <span class="built_in">calloc</span>(num_threads, <span class="keyword">sizeof</span>(*tinfo));</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Create &lt;num_threads&gt; worker threads */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        tinfo[i].thread_num = i;</span><br><span class="line">        tinfo[i].time_wait = time_wait;</span><br><span class="line">        tinfo[i].barrier = &amp;barrier;</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Set thread scheduling policy and priority */</span></span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">strcmp</span>(policies[i], <span class="string">&quot;FIFO&quot;</span>) == <span class="number">0</span>)</span><br><span class="line">            tinfo[i].sched_policy = SCHED_FIFO;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            tinfo[i].sched_policy = SCHED_OTHER;</span><br><span class="line">        </span><br><span class="line">        tinfo[i].sched_priority = atoi(priorities[i]);</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Set attributes to each thread, including CPU affinity and scheduling */</span></span><br><span class="line">        <span class="type">pthread_attr_t</span> attr;</span><br><span class="line">        set_thread_attributes(&amp;attr, tinfo[i].sched_policy, tinfo[i].sched_priority);</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Start the thread */</span></span><br><span class="line">        pthread_create(&amp;tinfo[i].thread_id, &amp;attr, thread_func, &amp;tinfo[i]);</span><br><span class="line">        pthread_attr_destroy(&amp;attr);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Wait for all threads to finish */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        pthread_join(tinfo[i].thread_id, <span class="literal">NULL</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Clean up */</span></span><br><span class="line">    pthread_barrier_destroy(&amp;barrier);</span><br><span class="line">    <span class="built_in">free</span>(tinfo);</span><br><span class="line">    <span class="built_in">free</span>(policies);</span><br><span class="line">    <span class="built_in">free</span>(priorities);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>The main function initializes the threading environment and starts the worker threads.</li>
+<li>It begins by parsing command-line arguments to determine the number of threads, their wait times, scheduling policies, and priorities.</li>
+<li>A barrier is initialized to synchronize the start of all worker threads.</li>
+<li>Threads are created in a loop. Each thread is given a unique number, its wait time, a reference to the barrier, and its scheduling policy and priority.</li>
+<li>Thread attributes are set according to the specified scheduling policy and CPU affinity.</li>
+<li>Threads are then started with <code>pthread_create</code>.</li>
+<li>Finally, the main thread waits for all worker threads to complete using <code>pthread_join</code> and performs necessary cleanup operations like destroying the barrier and freeing allocated memory.</li>
+</ul>
+<p><strong>Complete sched_demo_312551002.c program like below:</strong></p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> _GNU_SOURCE</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdlib.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;string.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;pthread.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;sched.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;unistd.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> &#123;</span></span><br><span class="line">    <span class="type">pthread_t</span> thread_id;</span><br><span class="line">    <span class="type">int</span> thread_num;</span><br><span class="line">    <span class="type">int</span> sched_policy;</span><br><span class="line">    <span class="type">int</span> sched_priority;</span><br><span class="line">    <span class="type">pthread_barrier_t</span> *barrier;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">&#125; <span class="type">thread_info_t</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">parse_args</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[], <span class="type">int</span> *num_threads, <span class="type">double</span> *time_wait, </span></span><br><span class="line"><span class="params">                <span class="type">char</span> ***policies_array, <span class="type">char</span> ***priorities_array)</span> </span><br><span class="line">&#123;</span><br><span class="line">    <span class="type">char</span> *policies_str = <span class="literal">NULL</span>;</span><br><span class="line">    <span class="type">char</span> *priorities_str = <span class="literal">NULL</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> opt;</span><br><span class="line">    <span class="keyword">while</span> ((opt = getopt(argc, argv, <span class="string">&quot;n:t:s:p:&quot;</span>)) != <span class="number">-1</span>) &#123;</span><br><span class="line">        <span class="keyword">switch</span> (opt) &#123;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;n&#x27;</span>:</span><br><span class="line">                *num_threads = atoi(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;t&#x27;</span>:</span><br><span class="line">                *time_wait = atof(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;s&#x27;</span>:</span><br><span class="line">                policies_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;p&#x27;</span>:</span><br><span class="line">                priorities_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Split policies and priotities argument */</span></span><br><span class="line">    *policies_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line">    *priorities_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line"></span><br><span class="line">    <span class="type">char</span> *rest_policy = policies_str;</span><br><span class="line">    <span class="type">char</span> *rest_priority = priorities_str;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; *num_threads; i++) &#123;</span><br><span class="line">        <span class="keyword">if</span> (i == <span class="number">0</span>) &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(policies_str, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(priorities_str, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125; </span><br><span class="line">        <span class="keyword">else</span> &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">set_thread_attributes</span><span class="params">(<span class="type">pthread_attr_t</span> *attr, <span class="type">int</span> sched_policy, <span class="type">int</span> sched_priority)</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Set CPU affinity */</span></span><br><span class="line">    <span class="type">cpu_set_t</span> cpuset;</span><br><span class="line">    pthread_attr_init(attr);</span><br><span class="line">    CPU_ZERO(&amp;cpuset);</span><br><span class="line">    CPU_SET(<span class="number">0</span>, &amp;cpuset);</span><br><span class="line">    pthread_attr_setaffinity_np(attr, <span class="keyword">sizeof</span>(<span class="type">cpu_set_t</span>), &amp;cpuset);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Set FIFO priority and attribute */</span></span><br><span class="line">    <span class="keyword">if</span> (sched_policy == SCHED_FIFO) &#123;</span><br><span class="line">        <span class="class"><span class="keyword">struct</span> <span class="title">sched_param</span> <span class="title">param</span>;</span></span><br><span class="line">        param.sched_priority = sched_priority;</span><br><span class="line">        pthread_attr_setschedpolicy(attr, SCHED_FIFO);</span><br><span class="line">        pthread_attr_setschedparam(attr, &amp;param);</span><br><span class="line">        pthread_attr_setinheritsched(attr, PTHREAD_EXPLICIT_SCHED);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[])</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> num_threads;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">    <span class="type">char</span> **policies;</span><br><span class="line">    <span class="type">char</span> **priorities;</span><br><span class="line"></span><br><span class="line">    parse_args(argc, argv, &amp;num_threads, &amp;time_wait, &amp;policies, &amp;priorities);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Initialize a barrier for synchronizing the start of the worker threads */</span></span><br><span class="line">    <span class="type">pthread_barrier_t</span> barrier;</span><br><span class="line">    pthread_barrier_init(&amp;barrier, <span class="literal">NULL</span>, num_threads);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Allocate memory for storing thread information */</span></span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = <span class="built_in">calloc</span>(num_threads, <span class="keyword">sizeof</span>(*tinfo));</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Create &lt;num_threads&gt; worker threads */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        tinfo[i].thread_num = i;</span><br><span class="line">        tinfo[i].time_wait = time_wait;</span><br><span class="line">        tinfo[i].barrier = &amp;barrier;</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Set thread scheduling policy and priority */</span></span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">strcmp</span>(policies[i], <span class="string">&quot;FIFO&quot;</span>) == <span class="number">0</span>)</span><br><span class="line">            tinfo[i].sched_policy = SCHED_FIFO;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            tinfo[i].sched_policy = SCHED_OTHER;</span><br><span class="line">        </span><br><span class="line">        tinfo[i].sched_priority = atoi(priorities[i]);</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Set attributes to each thread, including CPU affinity and scheduling */</span></span><br><span class="line">        <span class="type">pthread_attr_t</span> attr;</span><br><span class="line">        set_thread_attributes(&amp;attr, tinfo[i].sched_policy, tinfo[i].sched_priority);</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Start the thread */</span></span><br><span class="line">        pthread_create(&amp;tinfo[i].thread_id, &amp;attr, thread_func, &amp;tinfo[i]);</span><br><span class="line">        pthread_attr_destroy(&amp;attr);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Wait for all threads to finish */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        pthread_join(tinfo[i].thread_id, <span class="literal">NULL</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Clean up */</span></span><br><span class="line">    pthread_barrier_destroy(&amp;barrier);</span><br><span class="line">    <span class="built_in">free</span>(tinfo);</span><br><span class="line">    <span class="built_in">free</span>(policies);</span><br><span class="line">    <span class="built_in">free</span>(priorities);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>Compile implemented program</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">gcc -o sched_demo_312551002 sched_demo_312551002.c</span><br></pre></td></tr></table></figure>
+
+<p><strong>Test the program</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo ./sched_test.sh ./sched_demo ./sched_demo_312551002</span><br></pre></td></tr></table></figure>
+
+<p><strong>Screenshot of test result:</strong><br>   <div><br>                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_1.png" /><br>                                            </div></p>
+<h3 id="Q2-Describe-the-results-of-sched-demo-n-3-t-1-0-s-NORMAL-FIFO-FIFO-p-1-10-30-and-what-causes-that"><a href="#Q2-Describe-the-results-of-sched-demo-n-3-t-1-0-s-NORMAL-FIFO-FIFO-p-1-10-30-and-what-causes-that" class="headerlink" title="Q2: Describe the results of .&#x2F;sched_demo -n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30 and what causes that."></a>Q2: Describe the results of .&#x2F;sched_demo -n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30 and what causes that.</h3>   <div>
+                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_2.png" />
+                                            </div>
+
+<ul>
+<li><strong>CFS and NORMAL Policy:</strong> Thread 0 and Thread 2, which are both scheduled under the NORMAL policy, are managed by the CFS. This ensures they receive fair CPU time slices. Despite their lower priority compared to the FIFO threads, CFS allocates them CPU time in a manner that prevents starvation and ensures fair allocation. This is why these threads are scheduled intermittently even amidst the higher priority FIFO threads.</li>
+<li><strong>FIFO Policy and Preemption:</strong> Threads 1 and 3, scheduled under the FIFO policy, are expected to run based on their priority levels. Thread 3, with the highest priority (30), should theoretically preempt other threads and run to completion first. However, the interleaved scheduling of Thread 0 and Thread 2 indicates that CFS intervention allows these NORMAL policy threads to receive CPU time, thus not strictly adhering to FIFO priorities.</li>
+</ul>
+<h3 id="Q3-Describe-the-results-of-sched-demo-n-4-t-0-5-s-NORMAL-FIFO-NORMAL-FIFO-p-1-10-1-30-and-what-causes-that"><a href="#Q3-Describe-the-results-of-sched-demo-n-4-t-0-5-s-NORMAL-FIFO-NORMAL-FIFO-p-1-10-1-30-and-what-causes-that" class="headerlink" title="Q3: Describe the results of .&#x2F;sched_demo -n 4 -t 0.5 -s NORMAL,FIFO,NORMAL,FIFO -p -1,10,-1,30, and what causes that."></a>Q3: Describe the results of .&#x2F;sched_demo -n 4 -t 0.5 -s NORMAL,FIFO,NORMAL,FIFO -p -1,10,-1,30, and what causes that.</h3>   <div>
+                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_3.png" />
+                                            </div>
+
+<ul>
+<li><strong>CFS and NORMAL Policy:</strong> Although Thread 0 and Thread 2 have a NORMAL scheduling policy, the CFS ensures they both receive a fair portion of CPU time. CFS is designed to equitably distribute CPU time slices and does not allow real-time processes to completely overshadow regular ones. This design accounts for why Threads 0 and 2 are scheduled intermittently, even though there are FIFO threads with higher priorities running.</li>
+<li><strong>FIFO Policy and Preemption:</strong> For FIFO threads such as Thread 1 and Thread 3, the scheduling is based on their priority levels. Thread 3, with the highest priority (30), should, in a perfect FIFO system, run to completion before Thread 1, which has a lower priority (10), begins. However, the interleaving of Thread 0 and Thread 2 suggests that CFS is providing time slices to NORMAL policy threads, thereby not strictly adhering to FIFO priority rules.</li>
+</ul>
+<h3 id="Q4-Describe-how-did-you-implement-n-second-busy-waiting"><a href="#Q4-Describe-how-did-you-implement-n-second-busy-waiting" class="headerlink" title="Q4: Describe how did you implement n-second-busy-waiting?"></a>Q4: Describe how did you implement n-second-busy-waiting?</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li><strong>Time Measurement:</strong> The <code>clock_gettime</code> function with <code>CLOCK_MONOTONIC</code> is used to retrieve the current time at the start of the busy-waiting loop and then repeatedly during the loop to measure the elapsed time.</li>
+<li><strong>Busy-Wait Loop:</strong> Each thread enters a while loop that continually checks whether the elapsed time since the start of the loop has exceeded the specified waiting time (time_wait).</li>
+<li><strong>Elapsed Time Calculation:</strong> Inside the loop, clock_gettime is called again to get the current time, and the elapsed time is calculated by subtracting the starting time (start) from the current time (current). The result includes both the seconds (tv_sec) and nanoseconds (tv_nsec) components.</li>
+</ul>
+]]></content>
+      <categories>
+        <category>OS</category>
+      </categories>
+      <tags>
+        <tag>OS</tag>
+        <tag>Linux Kernel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>全國賽 - 5G通訊大賽 入圍</title>
+    <url>/hexo/2021/11/06/mobilehero/</url>
+    <content><![CDATA[<style>
+.link{
+            border-bottom: 1px solid gray;
+            padding-bottom: 1.5px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+.item {
+    width: 29%;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.item4 {
+    width: 28.5%;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.item5 {
+    width: 36%;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.item6 {
+    width: 20%;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.item7 {
+    width: 19%;
+    margin: 2px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+
+.item2 {
+    width: 45%;
+    height: 40%;
+    height: auto;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .item {
+        width: 98%;
+    }
+}
+    </style>
+
+<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>我是從專題老師得知比賽的資訊，我大二的時候去參加全國5G通訊大賽。這個比賽每年都會舉辦，主旨是以發展5G解決方案為主軸。聚焦於數位娛樂、交通、製造三大垂直領域。比賽分成「實作組」及「概念組」，實作組需要著重研發實作，且繳交作品原型，並於5G實驗場域進行驗證；而概念組則需發想5G創新應用情境，著重創新構想，並提交概念企畫提案書即可。我報名的是概念組選擇的是數位娛樂領域。更多詳細的競賽資訊可以至 通訊大賽<a class="link" href="https://mobilehero.com/zh-Hant/fivegplus" target="_blank">官網</a>查詢。</p>
+<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽4月就開放報名和下載參賽文件，實作組及概念組初選皆是以繳交企畫提案書進行參賽且需在7月時完成。我們團體在這短短的3個裡，從創意發想到雛形製作，再來到概念的驗證。在這過程中比較可惜是剛好遇到疫情最嚴峻的時候，所有的討論也被迫改為線上參與。線上討論讓我們更難地將自己的想法表達出來和缺乏了討論的互動。但這不影響我們參賽的熱忱，在我們的努力與奮鬥下TintFull就此誕生。</p>
+<div class="flex-container">
+    <div class="item">
+        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_1.jpg" />
+        <p style="text-align: center;">設計稿規劃</p>
+    </div>
+    <div class="item">
+        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_2.jpg" />
+        <p style="text-align: center;">3D 建模</p>
+    </div>
+    <div class="item">
+        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_3.jpg" />
+        <p style="text-align: center;">雛形測試</p>
+    </div>
+</div>
+
+
+
+<p>TintFull這個作品核心的價值就是透過物聯網（IoT）讓人在疫情下仍然可以彼此產生連接。我們的作品和想法在初賽的時候也受到評審們的肯定，讓我們成功晉級至決賽。概念組的每一個領域都會挑選出10組晉級決賽，而實作組則是不分領域選出10組晉級決賽。入圍名單 會在9月初的時候以Email的方式通知，也可以到他們的官網或ig上查看。</p>
+ <div>
+                                            <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_4.jpg" />
+                                            <p style="text-align: center;">評審建議</p>
+                                        </div>
+
+<h2 id="入圍之後"><a href="#入圍之後" class="headerlink" title="入圍之後"></a>入圍之後</h2><p>入圍團隊皆可參加主辦單位提供的充電課程和企業參訪，以補充團隊們對5G的知識。但除了企業參訪是到實地走訪以外，所有的課程因為疫情的關係皆改為線上進行。這次很榮幸可以參加中華電信（主辦方）的企業參訪。我們到了中華電信的總部去參觀中華電信把5G技術實際應用在生活中的產品。其中包括無人機，智慧醫療，智慧農場，AR，VR的領域。比賽最大的價值就是可以參加企業所提供的優質課程以及企業參訪的機會，這是在學校比較沒有機會接觸到的。<br>                                        <div class="flex-container"><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_5.jpg" /><br>                                                <p style="text-align: center;">實地參訪</p><br>                                            </div><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_6.jpg" /><br>                                                <p style="text-align: center;">實地參訪</p><br>                                            </div><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_7.jpg" /><br>                                                <p style="text-align: center;">應用展示</p><br>                                            </div><br>                                        </div></p>
+<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>在充電課程與企業參訪後，我們對5G的領域更加了解了。所以我們就將吸收到的5G知識應用在我們的作品TintFull上。雖然我們報名的是概念組，但為了驗證我們TintFull的概念，我們還是將TintFull的作品雛形製作了出來。我們在看過評審們給的評語後，我們TintFull的方向開始往「如何在疫情之下透過5G帶來的即時性互動，拉近人與人之間的距離」改善。</p>
+<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>在10月的時候我的到了台北digiBlock數位創新基地會場進行決賽。那天有入圍的團隊會輪流進場報告，還沒輪到的團隊只能在等候區等待叫號。因為疫情的關係，這次的決賽沒有觀眾唯有評審們（約7-9人）會進行現場的評分和提問。輪到我們的時候我們就像練習的時候一樣地報告，報告後評審們會提問。決賽結束後我們就離開了會場，成績會在決賽後的一週後以Email的方式公佈。</p>
+<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>11月的時候公佈了獲獎名單，很遺憾這次沒有得獎。但我自己有反思落選的原因，我認為這次落選最大的原因是因為我們報名的是數位娛樂組，但在決賽的時候我們強調的是TintFull「如何在疫情之下透過5G帶來的即時性互動拉近人與人之間的距離」，而缺乏了互動的娛樂性，導致我們的作品失焦，失去了作品的核心價值。</p>
+<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以入圍全國5G通訊大賽概念組-數位娛樂領域的總決賽。也有幸可以參加中華電信的企業參訪，這次的比賽真的收穫滿滿。這是我在台灣參加的第一場比賽，但我相信也不會是最後一次。</p>
+   <div>
+                                            <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_8.jpg" />
+                                            <p style="text-align: center;">團隊合照
+                                            </p>
+                                        </div>
+
+<h2 id="作品佳績"><a href="#作品佳績" class="headerlink" title="作品佳績"></a>作品佳績</h2><p>TintuFull這個作品也在資策會雲端數據平台（IDEAS Chain）上作為應用案例的分享，作品的雛形也放在在北部、中部、南部的學校輪流展出。<br>    <div><br>                                            <center> <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_9.jpg" width="500px" /><br>                                                <p style="text-align: center;">TintFull 作品展出</p><br>                                        </div></p>
+<h2 id="作品連結"><a href="#作品連結" class="headerlink" title="作品連結"></a>作品連結</h2><p>TintFull 設計過程<br>TintFull 作品成果<br>TintFull 在ideas hatch作為案例分享<br>TintFull 在ideas chain作為案例分享</p>
+]]></content>
+      <categories>
+        <category>比賽</category>
+      </categories>
+      <tags>
+        <tag>competition</tag>
+        <tag>University</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>System Information Fetching Kernel Module</title>
     <url>/hexo/2024/11/14/kernel_module/</url>
     <content><![CDATA[<ul>
@@ -876,127 +1099,6 @@
                                        的采訪</a>
                                  </span>
                               </p>]]></content>
-      <categories>
-        <category>比賽</category>
-      </categories>
-      <tags>
-        <tag>competition</tag>
-        <tag>University</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>全國賽 - 5G通訊大賽 入圍</title>
-    <url>/hexo/2021/11/06/mobilehero/</url>
-    <content><![CDATA[<style>
-.link{
-            border-bottom: 1px solid gray;
-            padding-bottom: 1.5px;
-}
-
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: flex-start;
-}
-
-.item {
-    width: 29%;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-.item4 {
-    width: 28.5%;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-.item5 {
-    width: 36%;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-.item6 {
-    width: 20%;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-.item7 {
-    width: 19%;
-    margin: 2px;
-    justify-content: center;
-    align-items: center;
-    padding: 2px;
-}
-
-.item2 {
-    width: 45%;
-    height: 40%;
-    height: auto;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-@media (max-width: 768px) {
-    .item {
-        width: 98%;
-    }
-}
-    </style>
-
-<h2 id="比賽簡介"><a href="#比賽簡介" class="headerlink" title="比賽簡介"></a>比賽簡介</h2><p>我是從專題老師得知比賽的資訊，我大二的時候去參加全國5G通訊大賽。這個比賽每年都會舉辦，主旨是以發展5G解決方案為主軸。聚焦於數位娛樂、交通、製造三大垂直領域。比賽分成「實作組」及「概念組」，實作組需要著重研發實作，且繳交作品原型，並於5G實驗場域進行驗證；而概念組則需發想5G創新應用情境，著重創新構想，並提交概念企畫提案書即可。我報名的是概念組選擇的是數位娛樂領域。更多詳細的競賽資訊可以至 通訊大賽<a class="link" href="https://mobilehero.com/zh-Hant/fivegplus" target="_blank">官網</a>查詢。</p>
-<h2 id="備賽過程"><a href="#備賽過程" class="headerlink" title="備賽過程"></a>備賽過程</h2><p>這個比賽4月就開放報名和下載參賽文件，實作組及概念組初選皆是以繳交企畫提案書進行參賽且需在7月時完成。我們團體在這短短的3個裡，從創意發想到雛形製作，再來到概念的驗證。在這過程中比較可惜是剛好遇到疫情最嚴峻的時候，所有的討論也被迫改為線上參與。線上討論讓我們更難地將自己的想法表達出來和缺乏了討論的互動。但這不影響我們參賽的熱忱，在我們的努力與奮鬥下TintFull就此誕生。</p>
-<div class="flex-container">
-    <div class="item">
-        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_1.jpg" />
-        <p style="text-align: center;">設計稿規劃</p>
-    </div>
-    <div class="item">
-        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_2.jpg" />
-        <p style="text-align: center;">3D 建模</p>
-    </div>
-    <div class="item">
-        <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_3.jpg" />
-        <p style="text-align: center;">雛形測試</p>
-    </div>
-</div>
-
-
-
-<p>TintFull這個作品核心的價值就是透過物聯網（IoT）讓人在疫情下仍然可以彼此產生連接。我們的作品和想法在初賽的時候也受到評審們的肯定，讓我們成功晉級至決賽。概念組的每一個領域都會挑選出10組晉級決賽，而實作組則是不分領域選出10組晉級決賽。入圍名單 會在9月初的時候以Email的方式通知，也可以到他們的官網或ig上查看。</p>
- <div>
-                                            <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_4.jpg" />
-                                            <p style="text-align: center;">評審建議</p>
-                                        </div>
-
-<h2 id="入圍之後"><a href="#入圍之後" class="headerlink" title="入圍之後"></a>入圍之後</h2><p>入圍團隊皆可參加主辦單位提供的充電課程和企業參訪，以補充團隊們對5G的知識。但除了企業參訪是到實地走訪以外，所有的課程因為疫情的關係皆改為線上進行。這次很榮幸可以參加中華電信（主辦方）的企業參訪。我們到了中華電信的總部去參觀中華電信把5G技術實際應用在生活中的產品。其中包括無人機，智慧醫療，智慧農場，AR，VR的領域。比賽最大的價值就是可以參加企業所提供的優質課程以及企業參訪的機會，這是在學校比較沒有機會接觸到的。<br>                                        <div class="flex-container"><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_5.jpg" /><br>                                                <p style="text-align: center;">實地參訪</p><br>                                            </div><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_6.jpg" /><br>                                                <p style="text-align: center;">實地參訪</p><br>                                            </div><br>                                            <div class="item"><br>                                                <img alt="張永義 競賽" data-src="/hexo/images/Mobilehero/Mobilehero_7.jpg" /><br>                                                <p style="text-align: center;">應用展示</p><br>                                            </div><br>                                        </div></p>
-<h2 id="決賽過程"><a href="#決賽過程" class="headerlink" title="決賽過程"></a>決賽過程</h2><p>在充電課程與企業參訪後，我們對5G的領域更加了解了。所以我們就將吸收到的5G知識應用在我們的作品TintFull上。雖然我們報名的是概念組，但為了驗證我們TintFull的概念，我們還是將TintFull的作品雛形製作了出來。我們在看過評審們給的評語後，我們TintFull的方向開始往「如何在疫情之下透過5G帶來的即時性互動，拉近人與人之間的距離」改善。</p>
-<h2 id="決賽當天"><a href="#決賽當天" class="headerlink" title="決賽當天"></a>決賽當天</h2><p>在10月的時候我的到了台北digiBlock數位創新基地會場進行決賽。那天有入圍的團隊會輪流進場報告，還沒輪到的團隊只能在等候區等待叫號。因為疫情的關係，這次的決賽沒有觀眾唯有評審們（約7-9人）會進行現場的評分和提問。輪到我們的時候我們就像練習的時候一樣地報告，報告後評審們會提問。決賽結束後我們就離開了會場，成績會在決賽後的一週後以Email的方式公佈。</p>
-<h2 id="成績公布"><a href="#成績公布" class="headerlink" title="成績公布"></a>成績公布</h2><p>11月的時候公佈了獲獎名單，很遺憾這次沒有得獎。但我自己有反思落選的原因，我認為這次落選最大的原因是因為我們報名的是數位娛樂組，但在決賽的時候我們強調的是TintFull「如何在疫情之下透過5G帶來的即時性互動拉近人與人之間的距離」，而缺乏了互動的娛樂性，導致我們的作品失焦，失去了作品的核心價值。</p>
-<h2 id="比賽收獲"><a href="#比賽收獲" class="headerlink" title="比賽收獲"></a>比賽收獲</h2><p>參加比賽的主旨是為了學習，累積經驗，有獲獎就是額外附加的價值。這次很高興可以入圍全國5G通訊大賽概念組-數位娛樂領域的總決賽。也有幸可以參加中華電信的企業參訪，這次的比賽真的收穫滿滿。這是我在台灣參加的第一場比賽，但我相信也不會是最後一次。</p>
-   <div>
-                                            <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_8.jpg" />
-                                            <p style="text-align: center;">團隊合照
-                                            </p>
-                                        </div>
-
-<h2 id="作品佳績"><a href="#作品佳績" class="headerlink" title="作品佳績"></a>作品佳績</h2><p>TintuFull這個作品也在資策會雲端數據平台（IDEAS Chain）上作為應用案例的分享，作品的雛形也放在在北部、中部、南部的學校輪流展出。<br>    <div><br>                                            <center> <img alt="張永義 競賽圖片" data-src="/hexo/images/Mobilehero/Mobilehero_9.jpg" width="500px" /><br>                                                <p style="text-align: center;">TintFull 作品展出</p><br>                                        </div></p>
-<h2 id="作品連結"><a href="#作品連結" class="headerlink" title="作品連結"></a>作品連結</h2><p>TintFull 設計過程<br>TintFull 作品成果<br>TintFull 在ideas hatch作為案例分享<br>TintFull 在ideas chain作為案例分享</p>
-]]></content>
       <categories>
         <category>比賽</category>
       </categories>
@@ -1298,113 +1400,6 @@
         <tag>competition</tag>
         <tag>University</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Apply different scheduling policies on created threads</title>
-    <url>/hexo/2024/11/13/linux_scheduling_policies/</url>
-    <content><![CDATA[<ul>
-<li>Assignment 2: Implement a program to apply different scheduling policies on created threads<ul>
-<li>Linux Scheduling Policy<ul>
-<li><code>SCHED_FIFO</code></li>
-</ul>
-</li>
-<li>Requirements<ul>
-<li>Main thread</li>
-<li>Worker Thread</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="Implement-a-program-to-apply-different-scheduling-policies-on-created-threads"><a href="#Implement-a-program-to-apply-different-scheduling-policies-on-created-threads" class="headerlink" title="Implement a program to apply different scheduling policies on created threads"></a>Implement a program to apply different scheduling policies on created threads</h2><h3 id="Q1-Describe-how-you-implemented-the-program-in-detail"><a href="#Q1-Describe-how-you-implemented-the-program-in-detail" class="headerlink" title="Q1: Describe how you implemented the program in detail."></a>Q1: Describe how you implemented the program in detail.</h3><p><strong>Step 0: Create new program</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vim sched_demo_312551002.c</span><br></pre></td></tr></table></figure>
-<p><strong>Step 1: Define and include related library</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> _GNU_SOURCE</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdlib.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;string.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;pthread.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;sched.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;unistd.h&gt;</span></span></span><br></pre></td></tr></table></figure>
-
-<p>I enabled the GNU extensions because I’ll using functions like <code>CPU_ZERO</code>, <code>CPU_SET</code>, and <code>pthread_setaffinity_np</code>, if not enabled the GNU extensions, when compile will occur errors and warnings. </p>
-<p><strong>Step 2: Define a struct for collecting required thread information</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> &#123;</span></span><br><span class="line">    <span class="type">pthread_t</span> thread_id;</span><br><span class="line">    <span class="type">int</span> thread_num;</span><br><span class="line">    <span class="type">int</span> sched_policy;</span><br><span class="line">    <span class="type">int</span> sched_priority;</span><br><span class="line">    <span class="type">pthread_barrier_t</span> *barrier;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">&#125; <span class="type">thread_info_t</span>;</span><br></pre></td></tr></table></figure>
-
-<p><strong>Step 3: Implement the Parse program arguments</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">testcases:</span><br><span class="line"></span><br><span class="line">-n 1 -t 0.5 -s NORMAL -p -1</span><br><span class="line">-n 2 -t 0.5 -s FIFO,FIFO -p 10,20</span><br><span class="line">-n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">parse_args</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[], <span class="type">int</span> *num_threads, <span class="type">double</span> *time_wait, </span></span><br><span class="line"><span class="params">                <span class="type">char</span> ***policies_array, <span class="type">char</span> ***priorities_array)</span> </span><br><span class="line">&#123;</span><br><span class="line">    <span class="type">char</span> *policies_str = <span class="literal">NULL</span>;</span><br><span class="line">    <span class="type">char</span> *priorities_str = <span class="literal">NULL</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> opt;</span><br><span class="line">    <span class="keyword">while</span> ((opt = getopt(argc, argv, <span class="string">&quot;n:t:s:p:&quot;</span>)) != <span class="number">-1</span>) &#123;</span><br><span class="line">        <span class="keyword">switch</span> (opt) &#123;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;n&#x27;</span>:</span><br><span class="line">                *num_threads = atoi(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;t&#x27;</span>:</span><br><span class="line">                *time_wait = atof(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;s&#x27;</span>:</span><br><span class="line">                policies_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;p&#x27;</span>:</span><br><span class="line">                priorities_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Split policies and priotities argument */</span></span><br><span class="line">    *policies_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line">    *priorities_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line"></span><br><span class="line">    <span class="type">char</span> *rest_policy = policies_str;</span><br><span class="line">    <span class="type">char</span> *rest_priority = priorities_str;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; *num_threads; i++) &#123;</span><br><span class="line">        <span class="keyword">if</span> (i == <span class="number">0</span>) &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(policies_str, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(priorities_str, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125; </span><br><span class="line">        <span class="keyword">else</span> &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>Command-line arguments are parsed using the <code>getopt</code> function. The arguments include the number of threads <code>-n</code>, time to wait <code>-t</code>, scheduling policies <code>-s</code>, and priorities <code>-p</code>. The values are stored in appropriate variables for later use.</li>
-<li>Special attention is given to the <code>-s</code> and <code>-p</code> arguments, which can have multiple values separated by <code>&quot;,&quot;</code>. These values are split and stored in arrays for individual thread configurations.</li>
-</ul>
-<p><strong>Step 4: Set CPU affinity and thread attribute</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">set_thread_attributes</span><span class="params">(<span class="type">pthread_attr_t</span> *attr, <span class="type">int</span> sched_policy, <span class="type">int</span> sched_priority)</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Set CPU affinity */</span></span><br><span class="line">    <span class="type">cpu_set_t</span> cpuset;</span><br><span class="line">    pthread_attr_init(attr);</span><br><span class="line">    CPU_ZERO(&amp;cpuset);</span><br><span class="line">    CPU_SET(<span class="number">0</span>, &amp;cpuset);</span><br><span class="line">    pthread_attr_setaffinity_np(attr, <span class="keyword">sizeof</span>(<span class="type">cpu_set_t</span>), &amp;cpuset);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Set FIFO priority and attribute */</span></span><br><span class="line">    <span class="keyword">if</span> (sched_policy == SCHED_FIFO) &#123;</span><br><span class="line">        <span class="class"><span class="keyword">struct</span> <span class="title">sched_param</span> <span class="title">param</span>;</span></span><br><span class="line">        param.sched_priority = sched_priority;</span><br><span class="line">        pthread_attr_setschedpolicy(attr, SCHED_FIFO);</span><br><span class="line">        pthread_attr_setschedparam(attr, &amp;param);</span><br><span class="line">        pthread_attr_setinheritsched(attr, PTHREAD_EXPLICIT_SCHED);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><code>CPU_ZERO</code> and <code>CPU_SET</code> are used to bind threads to a specific CPU (CPU 0 in this case), ensuring that they run on the designated processor.</li>
-<li>If the scheduling policy is <code>SCHED_FIFO</code>, additional attributes such as scheduling policy and priority are set. <code>SCHED_FIFO</code> is a real-time scheduling policy where a thread runs until it either finishes or is preempted by a higher priority thread. If scheduling policy is <code>NORMAL</code> will skip this part.</li>
-</ul>
-<p><strong>Step 5: Implement the Worker Thread</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>The worker thread’s function is defined here. Each thread waits at the barrier until all threads are ready to start simultaneously. This ensures synchronized start across all threads.</li>
-<li>Inside the loop, each thread performs its task for a specified duration <code>time_wait</code>. This is achieved using a busy-wait loop, calculating elapsed time with <code>clock_gettime</code>.</li>
-</ul>
-<p><strong>Step 6: Implement the Main Thread</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[])</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> num_threads;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">    <span class="type">char</span> **policies;</span><br><span class="line">    <span class="type">char</span> **priorities;</span><br><span class="line"></span><br><span class="line">    parse_args(argc, argv, &amp;num_threads, &amp;time_wait, &amp;policies, &amp;priorities);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Initialize a barrier for synchronizing the start of the worker threads */</span></span><br><span class="line">    <span class="type">pthread_barrier_t</span> barrier;</span><br><span class="line">    pthread_barrier_init(&amp;barrier, <span class="literal">NULL</span>, num_threads);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Allocate memory for storing thread information */</span></span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = <span class="built_in">calloc</span>(num_threads, <span class="keyword">sizeof</span>(*tinfo));</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Create &lt;num_threads&gt; worker threads */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        tinfo[i].thread_num = i;</span><br><span class="line">        tinfo[i].time_wait = time_wait;</span><br><span class="line">        tinfo[i].barrier = &amp;barrier;</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Set thread scheduling policy and priority */</span></span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">strcmp</span>(policies[i], <span class="string">&quot;FIFO&quot;</span>) == <span class="number">0</span>)</span><br><span class="line">            tinfo[i].sched_policy = SCHED_FIFO;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            tinfo[i].sched_policy = SCHED_OTHER;</span><br><span class="line">        </span><br><span class="line">        tinfo[i].sched_priority = atoi(priorities[i]);</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Set attributes to each thread, including CPU affinity and scheduling */</span></span><br><span class="line">        <span class="type">pthread_attr_t</span> attr;</span><br><span class="line">        set_thread_attributes(&amp;attr, tinfo[i].sched_policy, tinfo[i].sched_priority);</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Start the thread */</span></span><br><span class="line">        pthread_create(&amp;tinfo[i].thread_id, &amp;attr, thread_func, &amp;tinfo[i]);</span><br><span class="line">        pthread_attr_destroy(&amp;attr);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Wait for all threads to finish */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        pthread_join(tinfo[i].thread_id, <span class="literal">NULL</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Clean up */</span></span><br><span class="line">    pthread_barrier_destroy(&amp;barrier);</span><br><span class="line">    <span class="built_in">free</span>(tinfo);</span><br><span class="line">    <span class="built_in">free</span>(policies);</span><br><span class="line">    <span class="built_in">free</span>(priorities);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>The main function initializes the threading environment and starts the worker threads.</li>
-<li>It begins by parsing command-line arguments to determine the number of threads, their wait times, scheduling policies, and priorities.</li>
-<li>A barrier is initialized to synchronize the start of all worker threads.</li>
-<li>Threads are created in a loop. Each thread is given a unique number, its wait time, a reference to the barrier, and its scheduling policy and priority.</li>
-<li>Thread attributes are set according to the specified scheduling policy and CPU affinity.</li>
-<li>Threads are then started with <code>pthread_create</code>.</li>
-<li>Finally, the main thread waits for all worker threads to complete using <code>pthread_join</code> and performs necessary cleanup operations like destroying the barrier and freeing allocated memory.</li>
-</ul>
-<p><strong>Complete sched_demo_312551002.c program like below:</strong></p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> _GNU_SOURCE</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdlib.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;string.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;pthread.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;sched.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;unistd.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> &#123;</span></span><br><span class="line">    <span class="type">pthread_t</span> thread_id;</span><br><span class="line">    <span class="type">int</span> thread_num;</span><br><span class="line">    <span class="type">int</span> sched_policy;</span><br><span class="line">    <span class="type">int</span> sched_priority;</span><br><span class="line">    <span class="type">pthread_barrier_t</span> *barrier;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">&#125; <span class="type">thread_info_t</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">parse_args</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[], <span class="type">int</span> *num_threads, <span class="type">double</span> *time_wait, </span></span><br><span class="line"><span class="params">                <span class="type">char</span> ***policies_array, <span class="type">char</span> ***priorities_array)</span> </span><br><span class="line">&#123;</span><br><span class="line">    <span class="type">char</span> *policies_str = <span class="literal">NULL</span>;</span><br><span class="line">    <span class="type">char</span> *priorities_str = <span class="literal">NULL</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> opt;</span><br><span class="line">    <span class="keyword">while</span> ((opt = getopt(argc, argv, <span class="string">&quot;n:t:s:p:&quot;</span>)) != <span class="number">-1</span>) &#123;</span><br><span class="line">        <span class="keyword">switch</span> (opt) &#123;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;n&#x27;</span>:</span><br><span class="line">                *num_threads = atoi(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;t&#x27;</span>:</span><br><span class="line">                *time_wait = atof(optarg);</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;s&#x27;</span>:</span><br><span class="line">                policies_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">case</span> <span class="string">&#x27;p&#x27;</span>:</span><br><span class="line">                priorities_str = optarg;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Split policies and priotities argument */</span></span><br><span class="line">    *policies_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line">    *priorities_array = <span class="built_in">malloc</span>(*num_threads * <span class="keyword">sizeof</span>(<span class="type">char</span> *));</span><br><span class="line"></span><br><span class="line">    <span class="type">char</span> *rest_policy = policies_str;</span><br><span class="line">    <span class="type">char</span> *rest_priority = priorities_str;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; *num_threads; i++) &#123;</span><br><span class="line">        <span class="keyword">if</span> (i == <span class="number">0</span>) &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(policies_str, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(priorities_str, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125; </span><br><span class="line">        <span class="keyword">else</span> &#123;</span><br><span class="line">            (*policies_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_policy);</span><br><span class="line">            (*priorities_array)[i] = strtok_r(<span class="literal">NULL</span>, <span class="string">&quot;,&quot;</span>, &amp;rest_priority);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">set_thread_attributes</span><span class="params">(<span class="type">pthread_attr_t</span> *attr, <span class="type">int</span> sched_policy, <span class="type">int</span> sched_priority)</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Set CPU affinity */</span></span><br><span class="line">    <span class="type">cpu_set_t</span> cpuset;</span><br><span class="line">    pthread_attr_init(attr);</span><br><span class="line">    CPU_ZERO(&amp;cpuset);</span><br><span class="line">    CPU_SET(<span class="number">0</span>, &amp;cpuset);</span><br><span class="line">    pthread_attr_setaffinity_np(attr, <span class="keyword">sizeof</span>(<span class="type">cpu_set_t</span>), &amp;cpuset);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Set FIFO priority and attribute */</span></span><br><span class="line">    <span class="keyword">if</span> (sched_policy == SCHED_FIFO) &#123;</span><br><span class="line">        <span class="class"><span class="keyword">struct</span> <span class="title">sched_param</span> <span class="title">param</span>;</span></span><br><span class="line">        param.sched_priority = sched_priority;</span><br><span class="line">        pthread_attr_setschedpolicy(attr, SCHED_FIFO);</span><br><span class="line">        pthread_attr_setschedparam(attr, &amp;param);</span><br><span class="line">        pthread_attr_setinheritsched(attr, PTHREAD_EXPLICIT_SCHED);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span> *argv[])</span> &#123;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Parse program arguments */</span></span><br><span class="line">    <span class="type">int</span> num_threads;</span><br><span class="line">    <span class="type">double</span> time_wait;</span><br><span class="line">    <span class="type">char</span> **policies;</span><br><span class="line">    <span class="type">char</span> **priorities;</span><br><span class="line"></span><br><span class="line">    parse_args(argc, argv, &amp;num_threads, &amp;time_wait, &amp;policies, &amp;priorities);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Initialize a barrier for synchronizing the start of the worker threads */</span></span><br><span class="line">    <span class="type">pthread_barrier_t</span> barrier;</span><br><span class="line">    pthread_barrier_init(&amp;barrier, <span class="literal">NULL</span>, num_threads);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Allocate memory for storing thread information */</span></span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = <span class="built_in">calloc</span>(num_threads, <span class="keyword">sizeof</span>(*tinfo));</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Create &lt;num_threads&gt; worker threads */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        tinfo[i].thread_num = i;</span><br><span class="line">        tinfo[i].time_wait = time_wait;</span><br><span class="line">        tinfo[i].barrier = &amp;barrier;</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Set thread scheduling policy and priority */</span></span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">strcmp</span>(policies[i], <span class="string">&quot;FIFO&quot;</span>) == <span class="number">0</span>)</span><br><span class="line">            tinfo[i].sched_policy = SCHED_FIFO;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            tinfo[i].sched_policy = SCHED_OTHER;</span><br><span class="line">        </span><br><span class="line">        tinfo[i].sched_priority = atoi(priorities[i]);</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Set attributes to each thread, including CPU affinity and scheduling */</span></span><br><span class="line">        <span class="type">pthread_attr_t</span> attr;</span><br><span class="line">        set_thread_attributes(&amp;attr, tinfo[i].sched_policy, tinfo[i].sched_priority);</span><br><span class="line">        </span><br><span class="line">        <span class="comment">/* Start the thread */</span></span><br><span class="line">        pthread_create(&amp;tinfo[i].thread_id, &amp;attr, thread_func, &amp;tinfo[i]);</span><br><span class="line">        pthread_attr_destroy(&amp;attr);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Wait for all threads to finish */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; num_threads; i++) &#123;</span><br><span class="line">        pthread_join(tinfo[i].thread_id, <span class="literal">NULL</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Clean up */</span></span><br><span class="line">    pthread_barrier_destroy(&amp;barrier);</span><br><span class="line">    <span class="built_in">free</span>(tinfo);</span><br><span class="line">    <span class="built_in">free</span>(policies);</span><br><span class="line">    <span class="built_in">free</span>(priorities);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p><strong>Compile implemented program</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">gcc -o sched_demo_312551002 sched_demo_312551002.c</span><br></pre></td></tr></table></figure>
-
-<p><strong>Test the program</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo ./sched_test.sh ./sched_demo ./sched_demo_312551002</span><br></pre></td></tr></table></figure>
-
-<p><strong>Screenshot of test result:</strong><br>   <div><br>                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_1.png" /><br>                                            </div></p>
-<h3 id="Q2-Describe-the-results-of-sched-demo-n-3-t-1-0-s-NORMAL-FIFO-FIFO-p-1-10-30-and-what-causes-that"><a href="#Q2-Describe-the-results-of-sched-demo-n-3-t-1-0-s-NORMAL-FIFO-FIFO-p-1-10-30-and-what-causes-that" class="headerlink" title="Q2: Describe the results of .&#x2F;sched_demo -n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30 and what causes that."></a>Q2: Describe the results of .&#x2F;sched_demo -n 3 -t 1.0 -s NORMAL,FIFO,FIFO -p -1,10,30 and what causes that.</h3>   <div>
-                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_2.png" />
-                                            </div>
-
-<ul>
-<li><strong>CFS and NORMAL Policy:</strong> Thread 0 and Thread 2, which are both scheduled under the NORMAL policy, are managed by the CFS. This ensures they receive fair CPU time slices. Despite their lower priority compared to the FIFO threads, CFS allocates them CPU time in a manner that prevents starvation and ensures fair allocation. This is why these threads are scheduled intermittently even amidst the higher priority FIFO threads.</li>
-<li><strong>FIFO Policy and Preemption:</strong> Threads 1 and 3, scheduled under the FIFO policy, are expected to run based on their priority levels. Thread 3, with the highest priority (30), should theoretically preempt other threads and run to completion first. However, the interleaved scheduling of Thread 0 and Thread 2 indicates that CFS intervention allows these NORMAL policy threads to receive CPU time, thus not strictly adhering to FIFO priorities.</li>
-</ul>
-<h3 id="Q3-Describe-the-results-of-sched-demo-n-4-t-0-5-s-NORMAL-FIFO-NORMAL-FIFO-p-1-10-1-30-and-what-causes-that"><a href="#Q3-Describe-the-results-of-sched-demo-n-4-t-0-5-s-NORMAL-FIFO-NORMAL-FIFO-p-1-10-1-30-and-what-causes-that" class="headerlink" title="Q3: Describe the results of .&#x2F;sched_demo -n 4 -t 0.5 -s NORMAL,FIFO,NORMAL,FIFO -p -1,10,-1,30, and what causes that."></a>Q3: Describe the results of .&#x2F;sched_demo -n 4 -t 0.5 -s NORMAL,FIFO,NORMAL,FIFO -p -1,10,-1,30, and what causes that.</h3>   <div>
-                                                <img alt="張永義 競賽圖片" data-src="/hexo/images/OS_2/OS_3.png" />
-                                            </div>
-
-<ul>
-<li><strong>CFS and NORMAL Policy:</strong> Although Thread 0 and Thread 2 have a NORMAL scheduling policy, the CFS ensures they both receive a fair portion of CPU time. CFS is designed to equitably distribute CPU time slices and does not allow real-time processes to completely overshadow regular ones. This design accounts for why Threads 0 and 2 are scheduled intermittently, even though there are FIFO threads with higher priorities running.</li>
-<li><strong>FIFO Policy and Preemption:</strong> For FIFO threads such as Thread 1 and Thread 3, the scheduling is based on their priority levels. Thread 3, with the highest priority (30), should, in a perfect FIFO system, run to completion before Thread 1, which has a lower priority (10), begins. However, the interleaving of Thread 0 and Thread 2 suggests that CFS is providing time slices to NORMAL policy threads, thereby not strictly adhering to FIFO priority rules.</li>
-</ul>
-<h3 id="Q4-Describe-how-did-you-implement-n-second-busy-waiting"><a href="#Q4-Describe-how-did-you-implement-n-second-busy-waiting" class="headerlink" title="Q4: Describe how did you implement n-second-busy-waiting?"></a>Q4: Describe how did you implement n-second-busy-waiting?</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> *<span class="title function_">thread_func</span><span class="params">(<span class="type">void</span> *arg)</span> &#123;</span><br><span class="line">    <span class="type">thread_info_t</span> *tinfo = (<span class="type">thread_info_t</span> *)arg;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">timespec</span> <span class="title">start</span>, <span class="title">current</span>;</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment">/* Wait until all threads are ready */</span></span><br><span class="line">    pthread_barrier_wait(tinfo-&gt;barrier);</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Do the task */</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;Thread %d is running\n&quot;</span>, tinfo-&gt;thread_num);</span><br><span class="line">        clock_gettime(CLOCK_MONOTONIC, &amp;start);</span><br><span class="line">        <span class="type">double</span> elapsed = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="comment">/* Busy for &lt;time_wait&gt; seconds */</span></span><br><span class="line">        <span class="keyword">while</span> (elapsed &lt; tinfo-&gt;time_wait) &#123;</span><br><span class="line">            clock_gettime(CLOCK_MONOTONIC, &amp;current);</span><br><span class="line">            elapsed = current.tv_sec - start.tv_sec + </span><br><span class="line">                     (current.tv_nsec - start.tv_nsec) / <span class="number">1000000000.0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">/* Exit the function  */</span></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">NULL</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<ul>
-<li><strong>Time Measurement:</strong> The <code>clock_gettime</code> function with <code>CLOCK_MONOTONIC</code> is used to retrieve the current time at the start of the busy-waiting loop and then repeatedly during the loop to measure the elapsed time.</li>
-<li><strong>Busy-Wait Loop:</strong> Each thread enters a while loop that continually checks whether the elapsed time since the start of the loop has exceeded the specified waiting time (time_wait).</li>
-<li><strong>Elapsed Time Calculation:</strong> Inside the loop, clock_gettime is called again to get the current time, and the elapsed time is calculated by subtracting the starting time (start) from the current time (current). The result includes both the seconds (tv_sec) and nanoseconds (tv_nsec) components.</li>
-</ul>
-]]></content>
-      <categories>
-        <category>OS</category>
-      </categories>
-      <tags>
-        <tag>OS</tag>
-        <tag>Linux Kernel</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>archives</title>
-    <url>/hexo/archives/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>about</title>
@@ -1906,19 +1901,66 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Home</title>
-    <url>/hexo/home/index.html</url>
+    <title>categories</title>
+    <url>/hexo/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>categories</title>
-    <url>/hexo/categories/index.html</url>
+    <title>archives</title>
+    <url>/hexo/archives/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>tags</title>
     <url>/hexo/tags/index.html</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Home</title>
+    <url>/hexo/home/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/hexo/lib/bookmark/README.html</url>
+    <content><![CDATA[<h1 align="center">Bookmark for <a href="https://github.com/theme-next">NexT</a></h1>
+
+<h2 align="center">Introduce</h2>
+
+<p>Bookmark is a plugin that allow the users save their reading position.</p>
+<p>The users could just click the bookmark icon (like 🔖) in left-top of the page to save the position.</p>
+<p>And when they visit your blog in the next time, they can continue the last reading position by clicking the bookmark icon from the home page.</p>
+<h1 align="center">Installation</h1>
+
+<h2>If you want to use the CDN instead of clone this repo, please jump to the Step 3.</h2>
+
+<h2 align="center">Step 1 &rarr; Go to NexT dir</h2>
+
+<p>Change dir to <strong>NexT</strong> directory. There must be <code>layout</code>, <code>source</code>, <code>languages</code> and other directories:</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next</span><br><span class="line">$ <span class="built_in">ls</span></span><br><span class="line">bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  <span class="built_in">source</span>  <span class="built_in">test</span></span><br></pre></td></tr></table></figure>
+
+<h2 align="center">Step 2 &rarr; Get module</h2>
+
+<p>Install module to <code>source/lib</code> directory:</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/theme-next/theme-next-bookmark.git <span class="built_in">source</span>/lib/bookmark</span><br></pre></td></tr></table></figure>
+
+<h2 align="center">Step 3 &rarr; Set it up</h2>
+
+<p>Enable module in <strong>NexT</strong> <code>_config.yml</code> file:</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">bookmark:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p><strong>And, if you wants to use the CDN, then need to set:</strong></p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">vendors:</span></span><br><span class="line">  <span class="string">...</span></span><br><span class="line">  <span class="attr">bookmark:</span> <span class="string">https://cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@latest/bookmark.min.js</span></span><br></pre></td></tr></table></figure>
+
+<h1 align="center">Update</h1>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next/source/lib/bookmark</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/hexo/lib/bookmark/bookmark.min.js</url>
+    <content><![CDATA[!function(o){"use strict";var n=o.localStorage;null==n&&(n={getItem:function(){return null},setItem:function(){},removeItem:function(){},clear:function(){}});var t,e=function(){var o=n.getItem("bookmark");if(null==o)return null;try{return JSON.parse(o)}catch(o){return null}},a=function(){var n=o.document.createElement("style");n.type="text/css";var e=".book-mark-link{border-bottom:none;display:block;position:fixed;color:#222;font-size:26px !important;top:-10px;left:20px;transition:.3s;}.book-mark-link:hover,.book-mark-link-fixed{top:-2px}@media(max-width:1090px){.book-mark-link{display:none}}";e=o.document.createTextNode(e),n.appendChild(e),o.document.head.appendChild(n),t=$('<a class="book-mark-link book-mark-link-fixed fa fa-bookmark" href="#"></a>'),$(o.document.body).append(t);var a=0;$(o).on("scroll.bookmark",function(){var n=o.document.documentElement.scrollTop;n>0?0===a&&(t.removeClass("book-mark-link-fixed"),a=n):a>0&&(!t.hasClass("book-mark-link-fixed")&&t.addClass("book-mark-link-fixed"),a=0)})},r=function(e,a){null==a&&(a={});var r=o.document.documentElement.scrollTop;return a.lastUri=e,a[e]=r,n.setItem("bookmark",JSON.stringify(a)),t.animate({top:-26},"fast",function(){setTimeout(function(){t.css("top","")},400)}),a};o.bookmark={loadBookmark:function(){var o=e();null!=o&&$(function(){a(),t.attr("href",o.lastUri+"#book:mark")})},scrollToMark:function(n,l){var i=o.location.pathname,c=e();$(function(){var e;a(),t.click(function(){return c=r(i,c),!1}),"auto"===n&&o.addEventListener("beforeunload",function(){r(i,c)}),null!=c&&([l,"#comments"].filter(function(n){return n===o.location.hash}).length>0||(e=c[i],isNaN(e)||$(function(){$(o.document.documentElement).animate({scrollTop:e},"fast")})))})}}}(window);]]></content>
   </entry>
   <entry>
     <title></title>
@@ -2077,55 +2119,13 @@
   </entry>
   <entry>
     <title></title>
-    <url>/hexo/lib/bookmark/README.html</url>
-    <content><![CDATA[<h1 align="center">Bookmark for <a href="https://github.com/theme-next">NexT</a></h1>
-
-<h2 align="center">Introduce</h2>
-
-<p>Bookmark is a plugin that allow the users save their reading position.</p>
-<p>The users could just click the bookmark icon (like 🔖) in left-top of the page to save the position.</p>
-<p>And when they visit your blog in the next time, they can continue the last reading position by clicking the bookmark icon from the home page.</p>
-<h1 align="center">Installation</h1>
-
-<h2>If you want to use the CDN instead of clone this repo, please jump to the Step 3.</h2>
-
-<h2 align="center">Step 1 &rarr; Go to NexT dir</h2>
-
-<p>Change dir to <strong>NexT</strong> directory. There must be <code>layout</code>, <code>source</code>, <code>languages</code> and other directories:</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next</span><br><span class="line">$ <span class="built_in">ls</span></span><br><span class="line">bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  <span class="built_in">source</span>  <span class="built_in">test</span></span><br></pre></td></tr></table></figure>
-
-<h2 align="center">Step 2 &rarr; Get module</h2>
-
-<p>Install module to <code>source/lib</code> directory:</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/theme-next/theme-next-bookmark.git <span class="built_in">source</span>/lib/bookmark</span><br></pre></td></tr></table></figure>
-
-<h2 align="center">Step 3 &rarr; Set it up</h2>
-
-<p>Enable module in <strong>NexT</strong> <code>_config.yml</code> file:</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">bookmark:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
-
-<p><strong>And, if you wants to use the CDN, then need to set:</strong></p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">vendors:</span></span><br><span class="line">  <span class="string">...</span></span><br><span class="line">  <span class="attr">bookmark:</span> <span class="string">https://cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@latest/bookmark.min.js</span></span><br></pre></td></tr></table></figure>
-
-<h1 align="center">Update</h1>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/next/source/lib/bookmark</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/hexo/lib/bookmark/bookmark.min.js</url>
-    <content><![CDATA[!function(o){"use strict";var n=o.localStorage;null==n&&(n={getItem:function(){return null},setItem:function(){},removeItem:function(){},clear:function(){}});var t,e=function(){var o=n.getItem("bookmark");if(null==o)return null;try{return JSON.parse(o)}catch(o){return null}},a=function(){var n=o.document.createElement("style");n.type="text/css";var e=".book-mark-link{border-bottom:none;display:block;position:fixed;color:#222;font-size:26px !important;top:-10px;left:20px;transition:.3s;}.book-mark-link:hover,.book-mark-link-fixed{top:-2px}@media(max-width:1090px){.book-mark-link{display:none}}";e=o.document.createTextNode(e),n.appendChild(e),o.document.head.appendChild(n),t=$('<a class="book-mark-link book-mark-link-fixed fa fa-bookmark" href="#"></a>'),$(o.document.body).append(t);var a=0;$(o).on("scroll.bookmark",function(){var n=o.document.documentElement.scrollTop;n>0?0===a&&(t.removeClass("book-mark-link-fixed"),a=n):a>0&&(!t.hasClass("book-mark-link-fixed")&&t.addClass("book-mark-link-fixed"),a=0)})},r=function(e,a){null==a&&(a={});var r=o.document.documentElement.scrollTop;return a.lastUri=e,a[e]=r,n.setItem("bookmark",JSON.stringify(a)),t.animate({top:-26},"fast",function(){setTimeout(function(){t.css("top","")},400)}),a};o.bookmark={loadBookmark:function(){var o=e();null!=o&&$(function(){a(),t.attr("href",o.lastUri+"#book:mark")})},scrollToMark:function(n,l){var i=o.location.pathname,c=e();$(function(){var e;a(),t.click(function(){return c=r(i,c),!1}),"auto"===n&&o.addEventListener("beforeunload",function(){r(i,c)}),null!=c&&([l,"#comments"].filter(function(n){return n===o.location.hash}).length>0||(e=c[i],isNaN(e)||$(function(){$(o.document.documentElement).animate({scrollTop:e},"fast")})))})}}}(window);]]></content>
+    <url>/hexo/lib/bookmark/renovate.json</url>
+    <content><![CDATA[{"extends":["config:base"]}]]></content>
   </entry>
   <entry>
     <title></title>
     <url>/hexo/lib/bookmark/package.json</url>
     <content><![CDATA[{"name":"theme-next-bookmark","version":"1.0.2","description":"A plugin of local-bookmarks for NexT theme.","main":"index.js","scripts":{"test":"eslint index.js","dist":"eslint index.js && uglifyjs --compress --mangle -o bookmark.min.js -- index.js"},"repository":{"type":"git","url":"git+https://github.com/theme-next/theme-next-bookmark.git"},"keywords":["hexo","theme-next","plugin","bookmark"],"author":"Tsanie Lily","license":"MIT","bugs":{"url":"https://github.com/theme-next/theme-next-bookmark/issues"},"homepage":"https://github.com/theme-next/theme-next-bookmark#readme","devDependencies":{"eslint":"^4.17.0","eslint-config-google":"^0.9.1","uglify-js":"^3.3.10"}}]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/hexo/lib/bookmark/renovate.json</url>
-    <content><![CDATA[{"extends":["config:base"]}]]></content>
   </entry>
   <entry>
     <title></title>

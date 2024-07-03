@@ -16,8 +16,8 @@ https://benedict-cs.github.io/hexo/2021/11/07/intel/
 https://benedict-cs.github.io/hexo/2021/11/06/mobilehero/
 https://benedict-cs.github.io/hexo/lib/fancybox/README.html
 https://benedict-cs.github.io/hexo/lib/bookmark/README.html
-https://benedict-cs.github.io/hexo/lib/bookmark/package.json
 https://benedict-cs.github.io/hexo/lib/bookmark/renovate.json
+https://benedict-cs.github.io/hexo/lib/bookmark/package.json
 https://benedict-cs.github.io/hexo/archives/index.html
 https://benedict-cs.github.io/hexo
 https://benedict-cs.github.io/hexo/tags/competition/
